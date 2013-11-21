@@ -6,7 +6,11 @@ $(document).ready( function() {
 
 	for (var i = 0; i < collegeLinks.length; i++) {
 		var $collegeLinkItem = $(collegeLinks[i])
-		var collegeUrl = $collegeLinkItem.attr('href').replace(/http:\/\//, '').replace(/www./, '').replace(/\//, '');
+		var collegeUrl = $collegeLinkItem.attr('href')
+			.replace(/http:\/\//, '')
+			.replace(/www./, '')
+			.replace(/\/(.+)/, '')
+			.replace(/\//, '');
 		var collegeName = $collegeLinkItem.text();
 		colleges[collegeUrl] = {
 			name: collegeName

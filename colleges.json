@@ -38,7 +38,7 @@
   "afit.edu": {
     "name": "Air Force Institute of Technology"
   },
-  "maxwell.af.milunits/au/": {
+  "maxwell.af.mil": {
     "name": "Air University"
   },
   "aamu.edu": {
@@ -224,13 +224,7 @@
   "asu.edu": {
     "name": "Arizona State University"
   },
-  "campus.asu.edudowntown/": {
-    "name": "Arizona State University–Downtown Phoenix Campus"
-  },
-  "campus.asu.edupolytechnic/": {
-    "name": "Arizona State–Polytechnic Campus"
-  },
-  "campus.asu.eduwest/": {
+  "campus.asu.edu": {
     "name": "Arizona State University–West Campus"
   },
   "arkansasbaptist.edu": {
@@ -257,26 +251,8 @@
   "theartcenter.edu": {
     "name": "Art Center Design College"
   },
-  "artinstitutes.eduatlanta/": {
-    "name": "Art Institute of Atlanta"
-  },
-  "artinstitutes.edudenver/": {
-    "name": "Art Institute of Colorado"
-  },
-  "artinstitutes.edudallas/": {
-    "name": "Art Institute of Dallas"
-  },
-  "artinstitutes.eduhouston/": {
-    "name": "Art Institute of Houston"
-  },
-  "artinstitutes.edupittsburgh/": {
-    "name": "Art Institute of Pittsburgh"
-  },
-  "artinstitutes.eduportland/": {
-    "name": "Art Institute of Portland"
-  },
-  "artinstitutes.eduseattle/": {
-    "name": "Art Institute of Seattle"
+  "artinstitutes.edu": {
+    "name": "Miami International University of Art & Design"
   },
   "asburyseminary.edu": {
     "name": "Asbury Theological Seminary"
@@ -423,13 +399,10 @@
     "name": "DeSales University"
   },
   "devry.edu": {
-    "name": "DeVry University"
+    "name": "DeVry University–Arlington"
   },
   "add.devry.edu": {
     "name": "DeVry University–Addison"
-  },
-  "devry.edulocations/campuses/loc_arlingtoncampus.jsp": {
-    "name": "DeVry University–Arlington"
   },
   "chi.devry.edu": {
     "name": "DeVry University–Chicago"
@@ -848,7 +821,7 @@
   "garrett.edu": {
     "name": "Garrett-Evangelical Theological Seminary"
   },
-  "geneva.edupage/index.html": {
+  "geneva.edu": {
     "name": "Geneva College"
   },
   "georgefox.edu": {
@@ -1028,12 +1001,6 @@
   "ico.edu": {
     "name": "Illinois College of Optometry"
   },
-  "artinstitutes.educhicago/": {
-    "name": "Illinois Institute of Art"
-  },
-  "artinstitutes.eduschaumburg/": {
-    "name": "Illinois Institute of Art–Schaumburg"
-  },
   "iit.edu": {
     "name": "Illinois Institute of Technology"
   },
@@ -1115,7 +1082,7 @@
   "iwc.edu": {
     "name": "Iowa Wesleyan College"
   },
-  "cityofhope.orgeducation/grad-school/Pages/home.aspx": {
+  "cityofhope.org": {
     "name": "Irell & Manella Graduate School of Biological Sciences"
   },
   "ithaca.edu": {
@@ -1362,28 +1329,16 @@
     "name": "Loma Linda University"
   },
   "liu.edu": {
-    "name": "Long Island University"
+    "name": "Long Island University–Westchester Graduate Campus"
   },
-  ".brooklyn.liu.edupharmacy/": {
+  ".brooklyn.liu.edu": {
     "name": "Long Island University–Arnold & Marie Schwartz College of Pharmacy & Health Sciences"
   },
-  ".liu.educwis/brent/brent.htm": {
-    "name": "Long Island University–Brentwood Campus"
-  },
-  "liu.edubrooklyn.aspx": {
-    "name": "Long Island University–Brooklyn Campus"
-  },
-  "liu.educwpost.aspx": {
-    "name": "Long Island University–C.W. Post Campus"
-  },
-  ".southampton.liu.eduriverhead/": {
-    "name": "Long Island University at Riverhead"
-  },
-  ".liu.educwis/rckld/": {
+  ".liu.edu": {
     "name": "Long Island University–Rockland Graduate Campus"
   },
-  "liu.educwis/west/": {
-    "name": "Long Island University–Westchester Graduate Campus"
+  ".southampton.liu.edu": {
+    "name": "Long Island University at Riverhead"
   },
   "longwood.edu": {
     "name": "Longwood University"
@@ -1547,9 +1502,6 @@
   "necmusic.edu": {
     "name": "New England Conservatory of Music"
   },
-  "artinstitutes.eduboston/": {
-    "name": "New England Institute of Art"
-  },
   "neit.edu": {
     "name": "New England Institute of Technology"
   },
@@ -1650,12 +1602,6 @@
     "name": "Northeastern Seminary at Roberts Wesleyan College"
   },
   "nsuok.edu": {
-    "name": "Northeastern State University"
-  },
-  "nsuok.eduBrokenArrow.aspx": {
-    "name": "Northeastern State University–Broken Arrow"
-  },
-  "nsuok.eduMuskogee.aspx": {
     "name": "Northeastern State University–Muskogee"
   },
   "northeastern.edu": {
@@ -2000,28 +1946,7 @@
   "pnc.edu": {
     "name": "Purdue University–North Central"
   },
-  "tech.purdue.eduanderson/": {
-    "name": "Purdue University College of Technology–Anderson/Muncie"
-  },
-  "tech.purdue.educolumbus/": {
-    "name": "Purdue University College of Technology–Columbus/Greensburg"
-  },
-  "tech.purdue.eduindy/": {
-    "name": "Purdue University College of Technology–Indianapolis"
-  },
-  "tech.purdue.edukokomo/": {
-    "name": "Purdue University College of Technology–Kokomo"
-  },
-  "tech.purdue.edulafayette/": {
-    "name": "Purdue University College of Technology–Lafayette"
-  },
-  "tech.purdue.edunewalbany/": {
-    "name": "Purdue University College of Technology–New Albany"
-  },
-  "tech.purdue.edurichmond/": {
-    "name": "Purdue University College of Technology–Richmond"
-  },
-  "tech.purdue.edusouthbend/": {
+  "tech.purdue.edu": {
     "name": "Purdue University College of Technology–South Bend/Elkhart"
   },
   "shms.edu": {
@@ -2285,7 +2210,7 @@
   "sanjuanbautista.edu": {
     "name": "San Juan Bautista School of Medicine"
   },
-  "bismarck.sanfordhealth.orgcollegeofnursing/": {
+  "bismarck.sanfordhealth.org": {
     "name": "Sanford College of Nursing"
   },
   "scu.edu": {
@@ -2403,15 +2328,6 @@
     "name": "Sioux Falls Seminary"
   },
   "suagm.edu": {
-    "name": "Sistema Universitario Ana G. Méndez"
-  },
-  "suagm.eduune/": {
-    "name": "Universidad del Este"
-  },
-  "suagm.eduumet/": {
-    "name": "Universidad Metropolitana"
-  },
-  "suagm.eduturabo/": {
     "name": "Universidad del Turabo"
   },
   "sittingbull.edu": {
@@ -2874,16 +2790,13 @@
     "name": "University of Southern Maine"
   },
   "sc.edu": {
-    "name": "University of South Carolina"
+    "name": "University of South Carolina System"
   },
   "usca.edu": {
     "name": "University of South Carolina–Aiken"
   },
   "uscb.edu": {
     "name": "University of South Carolina–Beaufort"
-  },
-  "sc.eduabout/system_and_campuses/": {
-    "name": "University of South Carolina System"
   },
   "uscupstate.edu": {
     "name": "University of South Carolina–Upstate"
@@ -3410,7 +3323,7 @@
   "bryan.edu": {
     "name": "Bryan College"
   },
-  "bryanhealth.comCollegeofHealthSciences": {
+  "bryanhealth.com": {
     "name": "Bryan College of Health Sciences"
   },
   "bryant.edu": {
@@ -4338,13 +4251,10 @@
     "name": "Kenrick-Glennon Seminary"
   },
   "kent.edu": {
-    "name": "Kent State University"
+    "name": "Kent State University–College of Podiatric Medicine"
   },
   "ashtabula.kent.edu": {
     "name": "Kent State University–Ashtabula Campus"
-  },
-  "kent.educpm/": {
-    "name": "Kent State University–College of Podiatric Medicine"
   },
   "columbiana.kent.edu": {
     "name": "Kent State University–Columbiana County"
@@ -4550,16 +4460,7 @@
   "maui.hawaii.edu": {
     "name": "Maui College"
   },
-  "mayo.edueducation/": {
-    "name": "Mayo Clinic College of Medicine"
-  },
-  "mayo.edumgs/": {
-    "name": "Mayo Clinic College of Medicine–Graduate School"
-  },
-  "mayo.edumms/": {
-    "name": "Mayo Clinic College of Medicine–Medical School"
-  },
-  "mayo.edumshs/": {
+  "mayo.edu": {
     "name": "Mayo Clinic College of Medicine–School of Health Sciences"
   },
   "mayvillestate.edu": {
@@ -4628,7 +4529,7 @@
   "messiah.edu": {
     "name": "Messiah College"
   },
-  "methodistcol.edumethodistcollege/": {
+  "methodistcol.edu": {
     "name": "Methodist College"
   },
   "mtso.edu": {
@@ -4651,9 +4552,6 @@
   },
   "mdc.edu": {
     "name": "Miami Dade College"
-  },
-  "artinstitutes.edumiami/": {
-    "name": "Miami International University of Art & Design"
   },
   "miamioh.edu": {
     "name": "Miami University"
@@ -4853,7 +4751,7 @@
   "mtaloy.edu": {
     "name": "Mount Aloysius College"
   },
-  "mountangelabbey.orgseminary/": {
+  "mountangelabbey.org": {
     "name": "Mount Angel Seminary"
   },
   "mccn.edu": {
@@ -4959,12 +4857,6 @@
     "name": "Ohio State University–Newark"
   },
   "ohio.edu": {
-    "name": "Ohio University"
-  },
-  "ohio.edueastern/": {
-    "name": "Ohio University–Eastern Campus"
-  },
-  "ohio.edulancaster/": {
     "name": "Ohio University–Lancaster"
   },
   "zanesville.ohiou.edu": {
@@ -5352,9 +5244,6 @@
     "name": "Tougaloo College"
   },
   "touro.edu": {
-    "name": "Touro College"
-  },
-  "touro.edulosangeles/": {
     "name": "Touro College Los Angeles"
   },
   "tu.edu": {
@@ -5471,7 +5360,7 @@
   "usafa.edu": {
     "name": "United States Air Force Academy"
   },
-  "usacac.army.milcac2/cgsc/": {
+  "usacac.army.mil": {
     "name": "United States Army Command & General Staff College"
   },
   "carlisle.army.mil": {
@@ -6048,13 +5937,10 @@
     "name": "University of Notre Dame"
   },
   "ou.edu": {
-    "name": "University of Oklahoma"
+    "name": "University of Oklahoma–Tulsa"
   },
   "ouhsc.edu": {
     "name": "University of Oklahoma Health Sciences Center"
-  },
-  "ou.edutulsa/": {
-    "name": "University of Oklahoma–Tulsa"
   },
   "uoregon.edu": {
     "name": "University of Oregon"
