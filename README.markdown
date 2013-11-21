@@ -1,0 +1,1 @@
+A list of colleges scraped from [UT's website](http://www.utexas.edu/world/univ/alpha/).
