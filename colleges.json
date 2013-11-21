@@ -1,0 +1,6494 @@
+{
+  "atsu.edu": {
+    "name": "A.T. Still University of Health Sciences"
+  },
+  "acu.edu": {
+    "name": "Abilene Christian University"
+  },
+  "abac.edu": {
+    "name": "Abraham Baldwin Agricultural College"
+  },
+  "academyart.edu": {
+    "name": "Academy of Art University"
+  },
+  "adams.edu": {
+    "name": "Adams State College"
+  },
+  "adelphi.edu": {
+    "name": "Adelphi University"
+  },
+  "alfredadler.edu": {
+    "name": "Adler Graduate School"
+  },
+  "adler.edu": {
+    "name": "Adler School of Professional Psychology"
+  },
+  "adrian.edu": {
+    "name": "Adrian College"
+  },
+  "adu.edu": {
+    "name": "Adventist University of Health Sciences"
+  },
+  "agnesscott.edu": {
+    "name": "Agnes Scott College"
+  },
+  "aib.edu": {
+    "name": "AIB College of Business"
+  },
+  "afit.edu": {
+    "name": "Air Force Institute of Technology"
+  },
+  "maxwell.af.milunits/au/": {
+    "name": "Air University"
+  },
+  "aamu.edu": {
+    "name": "Alabama A&M University"
+  },
+  "alasu.edu": {
+    "name": "Alabama State University"
+  },
+  "akbible.edu": {
+    "name": "Alaska Bible College"
+  },
+  "alaskapacific.edu": {
+    "name": "Alaska Pacific University"
+  },
+  "acphs.edu": {
+    "name": "Albany College of Pharmacy & Health Sciences"
+  },
+  "amc.edu": {
+    "name": "Albany Medical College"
+  },
+  "asurams.edu": {
+    "name": "Albany State University"
+  },
+  "albertus.edu": {
+    "name": "Albertus Magnus College"
+  },
+  "albion.edu": {
+    "name": "Albion College"
+  },
+  "albright.edu": {
+    "name": "Albright College"
+  },
+  "alcorn.edu": {
+    "name": "Alcorn State University"
+  },
+  "ab.edu": {
+    "name": "Alderson-Broaddus College"
+  },
+  "alfred.edu": {
+    "name": "Alfred University"
+  },
+  "alc.edu": {
+    "name": "Alice Lloyd College"
+  },
+  "allegheny.edu": {
+    "name": "Allegheny College"
+  },
+  "allencollege.edu": {
+    "name": "Allen College"
+  },
+  "allenuniversity.edu": {
+    "name": "Allen University"
+  },
+  "alliant.edu": {
+    "name": "Alliant International University"
+  },
+  "alma.edu": {
+    "name": "Alma College"
+  },
+  "alvernia.edu": {
+    "name": "Alvernia University"
+  },
+  "alverno.edu": {
+    "name": "Alverno College"
+  },
+  "ambassador.edu": {
+    "name": "Ambassador University"
+  },
+  "amberton.edu": {
+    "name": "Amberton University"
+  },
+  "aaart.edu": {
+    "name": "American Academy of Art"
+  },
+  "theamericancollege.edu": {
+    "name": "American College"
+  },
+  "acaom.edu": {
+    "name": "American College of Acupuncture & Oriental Medicine"
+  },
+  "ace.edu": {
+    "name": "American College of Education"
+  },
+  "act-sf.org": {
+    "name": "American Conservatory Theater"
+  },
+  "afi.com": {
+    "name": "American Film Institute"
+  },
+  "aicag.edu": {
+    "name": "American Indian College of the Assemblies of God"
+  },
+  "aiuniv.edu": {
+    "name": "American InterContinental University"
+  },
+  "aic.edu": {
+    "name": "American International College"
+  },
+  "aju.edu": {
+    "name": "American Jewish University"
+  },
+  "amu.apus.edu": {
+    "name": "American Military University"
+  },
+  "apu.apus.edu": {
+    "name": "American Public University"
+  },
+  "american.edu": {
+    "name": "American University"
+  },
+  "aupr.edu": {
+    "name": "American University of Puerto Rico"
+  },
+  "amherst.edu": {
+    "name": "Amherst College"
+  },
+  "amridgeuniversity.edu": {
+    "name": "Amridge University"
+  },
+  "andersonuniversity.edu": {
+    "name": "Anderson University"
+  },
+  "anderson.edu": {
+    "name": "Anderson University"
+  },
+  "ants.edu": {
+    "name": "Andover Newton Theological School"
+  },
+  "andrews.edu": {
+    "name": "Andrews University"
+  },
+  "angelo.edu": {
+    "name": "Angelo State University"
+  },
+  "annamaria.edu": {
+    "name": "Anna Maria College"
+  },
+  "antiochcollege.org": {
+    "name": "Antioch College"
+  },
+  "midwest.antioch.edu": {
+    "name": "Antioch University–Midwest"
+  },
+  "antiochne.edu": {
+    "name": "Antioch University–New England"
+  },
+  "antiochla.edu": {
+    "name": "Antioch University–Los Angeles"
+  },
+  "antiochsb.edu": {
+    "name": "Antioch University–Santa Barbara"
+  },
+  "antiochseattle.edu": {
+    "name": "Antioch University–Seattle"
+  },
+  "aoma.edu": {
+    "name": "AOMA Graduate School of Integrative Medicine"
+  },
+  "abc.edu": {
+    "name": "Appalachian Bible College"
+  },
+  "appstate.edu": {
+    "name": "Appalachian State University"
+  },
+  "aquinas.edu": {
+    "name": "Aquinas College"
+  },
+  "aquinascollege.edu": {
+    "name": "Aquinas College"
+  },
+  "ai.edu": {
+    "name": "Aquinas Institute of Theology"
+  },
+  "arcadia.edu": {
+    "name": "Arcadia University"
+  },
+  "argosy.edu": {
+    "name": "Argosy University"
+  },
+  "arizonachristian.edu": {
+    "name": "Arizona Christian University"
+  },
+  "asu.edu": {
+    "name": "Arizona State University"
+  },
+  "campus.asu.edudowntown/": {
+    "name": "Arizona State University–Downtown Phoenix Campus"
+  },
+  "campus.asu.edupolytechnic/": {
+    "name": "Arizona State–Polytechnic Campus"
+  },
+  "campus.asu.eduwest/": {
+    "name": "Arizona State University–West Campus"
+  },
+  "arkansasbaptist.edu": {
+    "name": "Arkansas Baptist College"
+  },
+  "astate.edu": {
+    "name": "Arkansas State University"
+  },
+  "atu.edu": {
+    "name": "Arkansas Tech University"
+  },
+  "arlingtonbaptistcollege.edu": {
+    "name": "Arlington Baptist College"
+  },
+  "armstrong.edu": {
+    "name": "Armstrong Atlantic State University"
+  },
+  "artacademy.edu": {
+    "name": "Art Academy of Cincinnati"
+  },
+  "artcenter.edu": {
+    "name": "Art Center College of Design"
+  },
+  "theartcenter.edu": {
+    "name": "Art Center Design College"
+  },
+  "artinstitutes.eduatlanta/": {
+    "name": "Art Institute of Atlanta"
+  },
+  "artinstitutes.edudenver/": {
+    "name": "Art Institute of Colorado"
+  },
+  "artinstitutes.edudallas/": {
+    "name": "Art Institute of Dallas"
+  },
+  "artinstitutes.eduhouston/": {
+    "name": "Art Institute of Houston"
+  },
+  "artinstitutes.edupittsburgh/": {
+    "name": "Art Institute of Pittsburgh"
+  },
+  "artinstitutes.eduportland/": {
+    "name": "Art Institute of Portland"
+  },
+  "artinstitutes.eduseattle/": {
+    "name": "Art Institute of Seattle"
+  },
+  "asburyseminary.edu": {
+    "name": "Asbury Theological Seminary"
+  },
+  "asbury.edu": {
+    "name": "Asbury University"
+  },
+  "ashford.edu": {
+    "name": "Ashford University"
+  },
+  "ashland.edu": {
+    "name": "Ashland University"
+  },
+  "ambs.edu": {
+    "name": "Associated Mennonite Biblical Seminary"
+  },
+  "assumption.edu": {
+    "name": "Assumption College"
+  },
+  "athenaeum.edu": {
+    "name": "Athenaeum of Ohio"
+  },
+  "athens.edu": {
+    "name": "Athens State University"
+  },
+  "auburn.edu": {
+    "name": "Auburn University"
+  },
+  "aum.edu": {
+    "name": "Auburn University at Montgomery"
+  },
+  "augsburg.edu": {
+    "name": "Augsburg College"
+  },
+  "aug.edu": {
+    "name": "Augusta State University"
+  },
+  "augustana.edu": {
+    "name": "Augustana College"
+  },
+  "augie.edu": {
+    "name": "Augustana College"
+  },
+  "aurora.edu": {
+    "name": "Aurora University"
+  },
+  "austincollege.edu": {
+    "name": "Austin College"
+  },
+  "austingrad.edu": {
+    "name": "Austin Graduate School of Theology"
+  },
+  "apsu.edu": {
+    "name": "Austin Peay State University"
+  },
+  "austinseminary.edu": {
+    "name": "Austin Presbyterian Theological Seminary"
+  },
+  "avemaria.edu": {
+    "name": "Ave Maria University"
+  },
+  "averett.edu": {
+    "name": "Averett University"
+  },
+  "avila.edu": {
+    "name": "Avila University"
+  },
+  "apu.edu": {
+    "name": "Azusa Pacific University"
+  },
+  "daemen.edu": {
+    "name": "Daemen College"
+  },
+  "dsu.edu": {
+    "name": "Dakota State University"
+  },
+  "dwu.edu": {
+    "name": "Dakota Wesleyan University"
+  },
+  "dbu.edu": {
+    "name": "Dallas Baptist University"
+  },
+  "dallas.edu": {
+    "name": "Dallas Christian College"
+  },
+  "dts.edu": {
+    "name": "Dallas Theological Seminary"
+  },
+  "daltonstate.edu": {
+    "name": "Dalton State College"
+  },
+  "dwc.edu": {
+    "name": "Daniel Webster College"
+  },
+  "dartmouth.edu": {
+    "name": "Dartmouth College"
+  },
+  "davenport.edu": {
+    "name": "Davenport University"
+  },
+  "davidson.edu": {
+    "name": "Davidson College"
+  },
+  "davisny.edu": {
+    "name": "Davis College"
+  },
+  "dewv.edu": {
+    "name": "Davis & Elkins College"
+  },
+  "daytonastate.edu": {
+    "name": "Daytona State College"
+  },
+  "dean.edu": {
+    "name": "Dean College"
+  },
+  "defiance.edu": {
+    "name": "Defiance College"
+  },
+  "desu.edu": {
+    "name": "Delaware State University"
+  },
+  "delval.edu": {
+    "name": "Delaware Valley College"
+  },
+  "deltastate.edu": {
+    "name": "Delta State University"
+  },
+  "denison.edu": {
+    "name": "Denison University"
+  },
+  "denverseminary.edu": {
+    "name": "Denver Seminary"
+  },
+  "depaul.edu": {
+    "name": "DePaul University"
+  },
+  "depauw.edu": {
+    "name": "DePauw University"
+  },
+  "dmu.edu": {
+    "name": "Des Moines University–Osteopathic Medical Center"
+  },
+  "desales.edu": {
+    "name": "DeSales University"
+  },
+  "devry.edu": {
+    "name": "DeVry University"
+  },
+  "add.devry.edu": {
+    "name": "DeVry University–Addison"
+  },
+  "devry.edulocations/campuses/loc_arlingtoncampus.jsp": {
+    "name": "DeVry University–Arlington"
+  },
+  "chi.devry.edu": {
+    "name": "DeVry University–Chicago"
+  },
+  "atl.devry.edu": {
+    "name": "DeVry University–Georgia"
+  },
+  "dal.devry.edu": {
+    "name": "DeVry University–Irving"
+  },
+  "kc.devry.edu": {
+    "name": "DeVry University–Kansas City"
+  },
+  "lb.devry.edu": {
+    "name": "DeVry University–Long Beach"
+  },
+  "orl.devry.edu": {
+    "name": "DeVry University–Orlando"
+  },
+  "phx.devry.edu": {
+    "name": "DeVry University–Phoenix"
+  },
+  "pom.devry.edu": {
+    "name": "DeVry University–Pomona"
+  },
+  "dickinson.edu": {
+    "name": "Dickinson College"
+  },
+  "dickinsonstate.edu": {
+    "name": "Dickinson State University"
+  },
+  "dillard.edu": {
+    "name": "Dillard University"
+  },
+  "dwci.edu": {
+    "name": "Divine Word College"
+  },
+  "dixie.edu": {
+    "name": "Dixie State College"
+  },
+  "doane.edu": {
+    "name": "Doane College"
+  },
+  "dc.edu": {
+    "name": "Dominican College"
+  },
+  "dhs.edu": {
+    "name": "Dominican House of Studies"
+  },
+  "dspt.edu": {
+    "name": "Dominican School of Philosophy & Theology"
+  },
+  "dom.edu": {
+    "name": "Dominican University"
+  },
+  "dominican.edu": {
+    "name": "Dominican University of California"
+  },
+  "donnelly.edu": {
+    "name": "Donnelly College"
+  },
+  "dordt.edu": {
+    "name": "Dordt College"
+  },
+  "dowling.edu": {
+    "name": "Dowling College"
+  },
+  "drake.edu": {
+    "name": "Drake University"
+  },
+  "drew.edu": {
+    "name": "Drew University"
+  },
+  "drexel.edu": {
+    "name": "Drexel University"
+  },
+  "drury.edu": {
+    "name": "Drury University"
+  },
+  "duke.edu": {
+    "name": "Duke University"
+  },
+  "dunwoody.edu": {
+    "name": "Dunwoody College of Technology"
+  },
+  "duq.edu": {
+    "name": "Duquesne University"
+  },
+  "dyc.edu": {
+    "name": "D´Youville College"
+  },
+  "earlham.edu": {
+    "name": "Earlham College"
+  },
+  "ecu.edu": {
+    "name": "East Carolina University"
+  },
+  "ecok.edu": {
+    "name": "East Central University"
+  },
+  "esu.edu": {
+    "name": "East Stroudsburg State University of Pennsylvania"
+  },
+  "etsu.edu": {
+    "name": "East Tennessee State University"
+  },
+  "etbu.edu": {
+    "name": "East Texas Baptist University"
+  },
+  "eastwest.edu": {
+    "name": "East-West University"
+  },
+  "easternct.edu": {
+    "name": "Eastern Connecticut State University"
+  },
+  "easternflorida.edu": {
+    "name": "Eastern Florida State College"
+  },
+  "eiu.edu": {
+    "name": "Eastern Illinois University"
+  },
+  "eku.edu": {
+    "name": "Eastern Kentucky University"
+  },
+  "emu.edu": {
+    "name": "Eastern Mennonite University"
+  },
+  "emich.edu": {
+    "name": "Eastern Michigan University"
+  },
+  "enc.edu": {
+    "name": "Eastern Nazarene College"
+  },
+  "enmu.edu": {
+    "name": "Eastern New Mexico University"
+  },
+  "eou.edu": {
+    "name": "Eastern Oregon University"
+  },
+  "eastern.edu": {
+    "name": "Eastern University"
+  },
+  "evms.edu": {
+    "name": "Eastern Virginia Medical School"
+  },
+  "ewu.edu": {
+    "name": "Eastern Washington University"
+  },
+  "eckerd.edu": {
+    "name": "Eckerd College"
+  },
+  "ecpi.edu": {
+    "name": "ECPI University"
+  },
+  "eden.edu": {
+    "name": "Eden Theological Seminary"
+  },
+  "edgewood.edu": {
+    "name": "Edgewood College"
+  },
+  "edinboro.edu": {
+    "name": "Edinboro University of Pennsylvania"
+  },
+  "edison.edu": {
+    "name": "Edison State College"
+  },
+  "edpuniversity.edu": {
+    "name": "EDP College"
+  },
+  "ewc.edu": {
+    "name": "Edward Waters College"
+  },
+  "ecsu.edu": {
+    "name": "Elizabeth City State University"
+  },
+  "etown.edu": {
+    "name": "Elizabethtown College"
+  },
+  "ellis.edu": {
+    "name": "Ellis University"
+  },
+  "public.elmhurst.edu": {
+    "name": "Elmhurst College"
+  },
+  "elmira.edu": {
+    "name": "Elmira College"
+  },
+  "elms.edu": {
+    "name": "Elms College"
+  },
+  "elon.edu": {
+    "name": "Elon University"
+  },
+  "erau.edu": {
+    "name": "Embry-Riddle Aeronautical University"
+  },
+  "emerson.edu": {
+    "name": "Emerson College"
+  },
+  "ecs.edu": {
+    "name": "Emmanuel Christian Seminary"
+  },
+  "ec.edu": {
+    "name": "Emmanuel College"
+  },
+  "emmanuel.edu": {
+    "name": "Emmanuel College"
+  },
+  "emmaus.edu": {
+    "name": "Emmaus Bible College"
+  },
+  "emporia.edu": {
+    "name": "Emporia State University"
+  },
+  "ehc.edu": {
+    "name": "Emory & Henry College"
+  },
+  "emory.edu": {
+    "name": "Emory University"
+  },
+  "endicott.edu": {
+    "name": "Endicott College"
+  },
+  "erikson.edu": {
+    "name": "Erikson Institute"
+  },
+  "erskine.edu": {
+    "name": "Erskine College"
+  },
+  "eap.edu": {
+    "name": "Escuela de Artes Plásticas de Puerto Rico"
+  },
+  "eureka.edu": {
+    "name": "Eureka College"
+  },
+  "evangel.edu": {
+    "name": "Evangel University"
+  },
+  "evangelical.edu": {
+    "name": "Evangelical Theological Seminary"
+  },
+  "evergladesuniversity.edu": {
+    "name": "Everglades University"
+  },
+  "evergreen.edu": {
+    "name": "Evergreen State College"
+  },
+  "excelsior.edu": {
+    "name": "Excelsior College"
+  },
+  "fairfield.edu": {
+    "name": "Fairfield University"
+  },
+  "fdu.edu": {
+    "name": "Fairleigh Dickinson University"
+  },
+  "fairmontstate.edu": {
+    "name": "Fairmont State University"
+  },
+  "faith.edu": {
+    "name": "Faith Baptist Bible College & Theological Seminary"
+  },
+  "fidm.edu": {
+    "name": "Fashion Institute of Design & Merchandising"
+  },
+  "faulkner.edu": {
+    "name": "Faulkner University"
+  },
+  "uncfsu.edu": {
+    "name": "Fayetteville State University"
+  },
+  "felician.edu": {
+    "name": "Felician College"
+  },
+  "ferris.edu": {
+    "name": "Ferris State University"
+  },
+  "ferrum.edu": {
+    "name": "Ferrum College"
+  },
+  "fielding.edu": {
+    "name": "Fielding Graduate University"
+  },
+  "finlandia.edu": {
+    "name": "Finlandia University"
+  },
+  "fisher.edu": {
+    "name": "Fisher College"
+  },
+  "fisk.edu": {
+    "name": "Fisk University"
+  },
+  "fitchburgstate.edu": {
+    "name": "Fitchburg State University"
+  },
+  "ftc.edu": {
+    "name": "Five Towns College"
+  },
+  "flagler.edu": {
+    "name": "Flagler College"
+  },
+  "famu.edu": {
+    "name": "Florida Agricultural & Mechanical University"
+  },
+  "fau.edu": {
+    "name": "Florida Atlantic University"
+  },
+  "floridacollege.edu": {
+    "name": "Florida College"
+  },
+  "fgcu.edu": {
+    "name": "Florida Gulf Coast University"
+  },
+  "fit.edu": {
+    "name": "Florida Institute of Technology"
+  },
+  "fiu.edu": {
+    "name": "Florida International University"
+  },
+  "fmuniv.edu": {
+    "name": "Florida Memorial University"
+  },
+  "fnu.edu": {
+    "name": "Florida National University"
+  },
+  "flsouthern.edu": {
+    "name": "Florida Southern College"
+  },
+  "fscj.edu": {
+    "name": "Florida State College at Jacksonville"
+  },
+  "fsu.edu": {
+    "name": "Florida State University"
+  },
+  "fontbonne.edu": {
+    "name": "Fontbonne University"
+  },
+  "fordham.edu": {
+    "name": "Fordham University"
+  },
+  "forest.edu": {
+    "name": "Forest Institute of Professional Psychology"
+  },
+  "fhsu.edu": {
+    "name": "Fort Hays State University"
+  },
+  "fortlewis.edu": {
+    "name": "Fort Lewis College"
+  },
+  "fvsu.edu": {
+    "name": "Fort Valley State University"
+  },
+  "framingham.edu": {
+    "name": "Framingham State University"
+  },
+  "fmarion.edu": {
+    "name": "Francis Marion University"
+  },
+  "fst.edu": {
+    "name": "Franciscan School of Theology"
+  },
+  "franciscan.edu": {
+    "name": "Franciscan University of Steubenville"
+  },
+  "taliesin.edu": {
+    "name": "Frank Lloyd Wright School of Architecture"
+  },
+  "fandm.edu": {
+    "name": "Franklin & Marshall College"
+  },
+  "franklincollege.edu": {
+    "name": "Franklin College"
+  },
+  "franklinpierce.edu": {
+    "name": "Franklin Pierce University"
+  },
+  "franklin.edu": {
+    "name": "Franklin University"
+  },
+  "olin.edu": {
+    "name": "Franklin W. Olin College of Engineering"
+  },
+  "fhu.edu": {
+    "name": "Freed-Hardeman University"
+  },
+  "fresno.edu": {
+    "name": "Fresno Pacific University"
+  },
+  "friends.edu": {
+    "name": "Friends University"
+  },
+  "frontier.edu": {
+    "name": "Frontier Nursing University"
+  },
+  "frostburg.edu": {
+    "name": "Frostburg State University"
+  },
+  "fuller.edu": {
+    "name": "Fuller Theological Seminary"
+  },
+  "furman.edu": {
+    "name": "Furman University"
+  },
+  "future.edu": {
+    "name": "Future Generations Graduate School"
+  },
+  "gallaudet.edu": {
+    "name": "Gallaudet University"
+  },
+  "gannon.edu": {
+    "name": "Gannon University"
+  },
+  "gardner-webb.edu": {
+    "name": "Gardner-Webb University"
+  },
+  "garrett.edu": {
+    "name": "Garrett-Evangelical Theological Seminary"
+  },
+  "geneva.edupage/index.html": {
+    "name": "Geneva College"
+  },
+  "georgefox.edu": {
+    "name": "George Fox University"
+  },
+  "gmu.edu": {
+    "name": "George Mason University"
+  },
+  "gwu.edu": {
+    "name": "George Washington University"
+  },
+  "gwvirginia.gwu.edu": {
+    "name": "George Washington University–Virginia Campus"
+  },
+  "georgetowncollege.edu": {
+    "name": "Georgetown College"
+  },
+  "georgetown.edu": {
+    "name": "Georgetown University"
+  },
+  "gcsu.edu": {
+    "name": "Georgia College & State University"
+  },
+  "ggc.edu": {
+    "name": "Georgia Gwinnett College"
+  },
+  "gatech.edu": {
+    "name": "Georgia Institute of Technology"
+  },
+  "gru.edu": {
+    "name": "Georgia Regents University"
+  },
+  "georgiasouthern.edu": {
+    "name": "Georgia Southern University"
+  },
+  "gsw.edu": {
+    "name": "Georgia Southwestern State University"
+  },
+  "gsu.edu": {
+    "name": "Georgia State University"
+  },
+  "georgian.edu": {
+    "name": "Georgian Court University"
+  },
+  "gettysburg.edu": {
+    "name": "Gettysburg College"
+  },
+  "glenville.edu": {
+    "name": "Glenville State College"
+  },
+  "globaluniversity.edu": {
+    "name": "Global University"
+  },
+  "gbs.edu": {
+    "name": "God's Bible School & College"
+  },
+  "goddard.edu": {
+    "name": "Goddard College"
+  },
+  "ggbts.edu": {
+    "name": "Golden Gate Baptist Theological Seminary"
+  },
+  "ggu.edu": {
+    "name": "Golden Gate University"
+  },
+  "gbc.edu": {
+    "name": "Goldey-Beacom College"
+  },
+  "barnesjewishcollege.edu": {
+    "name": "Goldfarb School of Nursing at Barnes-Jewish College"
+  },
+  "gonzaga.edu": {
+    "name": "Gonzaga University"
+  },
+  "goodwin.edu": {
+    "name": "Goodwin College"
+  },
+  "gordonstate.edu": {
+    "name": "Gordon State College"
+  },
+  "gordon.edu": {
+    "name": "Gordon College"
+  },
+  "gordonconwell.edu": {
+    "name": "Gordon-Conwell Theological Seminary"
+  },
+  "goshen.edu": {
+    "name": "Goshen College"
+  },
+  "goucher.edu": {
+    "name": "Goucher College"
+  },
+  "govst.edu": {
+    "name": "Governors State University"
+  },
+  "gbcol.edu": {
+    "name": "Grace Bible College"
+  },
+  "grace.edu": {
+    "name": "Grace College & Seminary"
+  },
+  "graceuniversity.edu": {
+    "name": "Grace University"
+  },
+  "graceland.edu": {
+    "name": "Graceland University"
+  },
+  "gial.edu": {
+    "name": "Graduate Institute of Applied Linguistics"
+  },
+  "gtu.edu": {
+    "name": "Graduate Theological Union"
+  },
+  "gram.edu": {
+    "name": "Grambling State University"
+  },
+  "gcu.edu": {
+    "name": "Grand Canyon University"
+  },
+  "gvsu.edu": {
+    "name": "Grand Valley State University"
+  },
+  "grandview.edu": {
+    "name": "Grand View University"
+  },
+  "granite.edu": {
+    "name": "Granite State College"
+  },
+  "gratz.edu": {
+    "name": "Gratz College"
+  },
+  "gbcnv.edu": {
+    "name": "Great Basin College"
+  },
+  "glcc.edu": {
+    "name": "Great Lakes Christian College"
+  },
+  "greenmtn.edu": {
+    "name": "Green Mountain College"
+  },
+  "greensboro.edu": {
+    "name": "Greensboro College"
+  },
+  "greenville.edu": {
+    "name": "Greenville College"
+  },
+  "grinnell.edu": {
+    "name": "Grinnell College"
+  },
+  "gcc.edu": {
+    "name": "Grove City College"
+  },
+  "guilford.edu": {
+    "name": "Guilford College"
+  },
+  "gulfcoast.edu": {
+    "name": "Gulf Coast State College"
+  },
+  "gustavus.edu": {
+    "name": "Gustavus Adolphus College"
+  },
+  "gmc.edu": {
+    "name": "Gwynedd Mercy College"
+  },
+  "icahn.mssm.edu": {
+    "name": "Icahn School of Medicine at Mount Sinai"
+  },
+  "isu.edu": {
+    "name": "Idaho State University"
+  },
+  "iliff.edu": {
+    "name": "Iliff School of Theology"
+  },
+  "ic.edu": {
+    "name": "Illinois College"
+  },
+  "ico.edu": {
+    "name": "Illinois College of Optometry"
+  },
+  "artinstitutes.educhicago/": {
+    "name": "Illinois Institute of Art"
+  },
+  "artinstitutes.eduschaumburg/": {
+    "name": "Illinois Institute of Art–Schaumburg"
+  },
+  "iit.edu": {
+    "name": "Illinois Institute of Technology"
+  },
+  "illinoisstate.edu": {
+    "name": "Illinois State University"
+  },
+  "iwu.edu": {
+    "name": "Illinois Wesleyan University"
+  },
+  "immaculata.edu": {
+    "name": "Immaculata University"
+  },
+  "irsc.edu": {
+    "name": "Indian River State College"
+  },
+  "indianatech.edu": {
+    "name": "Indiana Institute of Technology"
+  },
+  "indstate.edu": {
+    "name": "Indiana State University"
+  },
+  "iub.edu": {
+    "name": "Indiana University–Bloomington"
+  },
+  "iue.edu": {
+    "name": "Indiana University–East"
+  },
+  "iuk.edu": {
+    "name": "Indiana University–Kokomo"
+  },
+  "iun.edu": {
+    "name": "Indiana University–Northwest"
+  },
+  "iusb.edu": {
+    "name": "Indiana University–South Bend"
+  },
+  "ius.edu": {
+    "name": "Indiana University–Southeast"
+  },
+  "indiana.edu": {
+    "name": "Indiana University System"
+  },
+  "iupuc.edu": {
+    "name": "Indiana University/Purdue University at Columbus"
+  },
+  "ipfw.edu": {
+    "name": "Indiana University/Purdue University at Fort Wayne"
+  },
+  "iupui.edu": {
+    "name": "Indiana University/Purdue University at Indianapolis"
+  },
+  "iup.edu": {
+    "name": "Indiana University of Pennsylvania"
+  },
+  "indwes.edu": {
+    "name": "Indiana Wesleyan University"
+  },
+  "icsw.edu": {
+    "name": "Institute for Clinical Social Work"
+  },
+  "ipsciences.edu": {
+    "name": "Institute for the Psychological Sciences"
+  },
+  "iaia.edu": {
+    "name": "Institute of American Indian Arts"
+  },
+  "iwp.edu": {
+    "name": "Institute of World Politics"
+  },
+  "itc.edu": {
+    "name": "Interdenominational Theological Center"
+  },
+  "iona.edu": {
+    "name": "Iona College"
+  },
+  "iastate.edu": {
+    "name": "Iowa State University"
+  },
+  "iwc.edu": {
+    "name": "Iowa Wesleyan College"
+  },
+  "cityofhope.orgeducation/grad-school/Pages/home.aspx": {
+    "name": "Irell & Manella Graduate School of Biological Sciences"
+  },
+  "ithaca.edu": {
+    "name": "Ithaca College"
+  },
+  "jsums.edu": {
+    "name": "Jackson State University"
+  },
+  "ju.edu": {
+    "name": "Jacksonville University"
+  },
+  "jsu.edu": {
+    "name": "Jacksonville State University"
+  },
+  "jmu.edu": {
+    "name": "James Madison University"
+  },
+  "jc.edu": {
+    "name": "Jamestown College"
+  },
+  "jarvis.edu": {
+    "name": "Jarvis Christian College"
+  },
+  "jchs.edu": {
+    "name": "Jefferson College of Health Sciences"
+  },
+  "jtsa.edu": {
+    "name": "The Jewish Theological Seminary of America"
+  },
+  "jbu.edu": {
+    "name": "John Brown University"
+  },
+  "jcu.edu": {
+    "name": "John Carroll University"
+  },
+  "jfku.edu": {
+    "name": "John F. Kennedy University"
+  },
+  "jmls.edu": {
+    "name": "John Marshall Law School"
+  },
+  "jhu.edu": {
+    "name": "Johns Hopkins University"
+  },
+  "johnsonu.edu": {
+    "name": "Johnson University"
+  },
+  "fcc.edu": {
+    "name": "Johnson University Florida"
+  },
+  "jcsu.edu": {
+    "name": "Johnson C. Smith University"
+  },
+  "jsc.edu": {
+    "name": "Johnson State College"
+  },
+  "jwu.edu": {
+    "name": "Johnson & Wales University"
+  },
+  "jiu.edu": {
+    "name": "Jones International University"
+  },
+  "judson.edu": {
+    "name": "Judson College"
+  },
+  "judsonu.edu": {
+    "name": "Judson University"
+  },
+  "juilliard.edu": {
+    "name": "The Juilliard School"
+  },
+  "juniata.edu": {
+    "name": "Juniata College"
+  },
+  "laroche.edu": {
+    "name": "La Roche College"
+  },
+  "lasalle.edu": {
+    "name": "La Salle University"
+  },
+  "lasierra.edu": {
+    "name": "La Sierra University"
+  },
+  "laboure.edu": {
+    "name": "Labouré College"
+  },
+  "lafayette.edu": {
+    "name": "Lafayette College"
+  },
+  "lagrange.edu": {
+    "name": "LaGrange College"
+  },
+  "lcad.edu": {
+    "name": "Laguna College of Art & Design"
+  },
+  "lec.edu": {
+    "name": "Lake Erie College"
+  },
+  "lecom.edu": {
+    "name": "Lake Erie College of Osteopathic Medicine"
+  },
+  "lakeforest.edu": {
+    "name": "Lake Forest College"
+  },
+  "lakeforestmba.edu": {
+    "name": "Lake Forest Graduate School of Management"
+  },
+  "lssu.edu": {
+    "name": "Lake Superior State University"
+  },
+  "lssc.edu": {
+    "name": "Lake-Sumter State College"
+  },
+  "lakeland.edu": {
+    "name": "Lakeland College"
+  },
+  "lakeviewcol.edu": {
+    "name": "Lakeview College of Nursing"
+  },
+  "lamar.edu": {
+    "name": "Lamar University"
+  },
+  "lbc.edu": {
+    "name": "Lancaster Bible College"
+  },
+  "lancasterseminary.edu": {
+    "name": "Lancaster Theological Seminary"
+  },
+  "lander.edu": {
+    "name": "Lander University"
+  },
+  "landmark.edu": {
+    "name": "Landmark College"
+  },
+  "lanecollege.edu": {
+    "name": "Lane College"
+  },
+  "lunet.edu": {
+    "name": "Langston University"
+  },
+  "lasell.edu": {
+    "name": "Lasell College"
+  },
+  "ltu.edu": {
+    "name": "Lawrence Technological University"
+  },
+  "lawrence.edu": {
+    "name": "Lawrence University"
+  },
+  "lemoyne.edu": {
+    "name": "Le Moyne College"
+  },
+  "lvc.edu": {
+    "name": "Lebanon Valley College"
+  },
+  "leeuniversity.edu": {
+    "name": "Lee University"
+  },
+  "lmc.edu": {
+    "name": "Lees-McRae College"
+  },
+  "lehigh.edu": {
+    "name": "Lehigh University"
+  },
+  "loc.edu": {
+    "name": "LeMoyne-Owen College"
+  },
+  "lr.edu": {
+    "name": "Lenoir-Rhyne University"
+  },
+  "lesley.edu": {
+    "name": "Lesley University"
+  },
+  "letu.edu": {
+    "name": "LeTourneau University"
+  },
+  "lclark.edu": {
+    "name": "Lewis & Clark College"
+  },
+  "lcsc.edu": {
+    "name": "Lewis-Clark State College"
+  },
+  "lewisu.edu": {
+    "name": "Lewis University"
+  },
+  "lexingtoncollege.edu": {
+    "name": "Lexington College"
+  },
+  "liberty.edu": {
+    "name": "Liberty University"
+  },
+  "lifepacific.edu": {
+    "name": "Life Pacific College"
+  },
+  "life.edu": {
+    "name": "Life University"
+  },
+  "limcollege.edu": {
+    "name": "LIM College"
+  },
+  "limestone.edu": {
+    "name": "Limestone College"
+  },
+  "lincolnchristian.edu": {
+    "name": "Lincoln Christian University"
+  },
+  "lincolncollege.edu": {
+    "name": "Lincoln College"
+  },
+  "lincolncollegene.edu": {
+    "name": "Lincoln College of New England"
+  },
+  "lmunet.edu": {
+    "name": "Lincoln Memorial University"
+  },
+  "lincolnu.edu": {
+    "name": "Lincoln University"
+  },
+  "lincoln.edu": {
+    "name": "Lincoln University"
+  },
+  "lindenwood.edu": {
+    "name": "Lindenwood University"
+  },
+  "lindsey.edu": {
+    "name": "Lindsey Wilson College"
+  },
+  "linfield.edu": {
+    "name": "Linfield College"
+  },
+  "lipscomb.edu": {
+    "name": "Lipscomb University"
+  },
+  "livingstone.edu": {
+    "name": "Livingstone College"
+  },
+  "lhup.edu": {
+    "name": "Lock Haven University of Pennsylvania"
+  },
+  "logan.edu": {
+    "name": "Logan University"
+  },
+  "llu.edu": {
+    "name": "Loma Linda University"
+  },
+  "liu.edu": {
+    "name": "Long Island University"
+  },
+  ".brooklyn.liu.edupharmacy/": {
+    "name": "Long Island University–Arnold & Marie Schwartz College of Pharmacy & Health Sciences"
+  },
+  ".liu.educwis/brent/brent.htm": {
+    "name": "Long Island University–Brentwood Campus"
+  },
+  "liu.edubrooklyn.aspx": {
+    "name": "Long Island University–Brooklyn Campus"
+  },
+  "liu.educwpost.aspx": {
+    "name": "Long Island University–C.W. Post Campus"
+  },
+  ".southampton.liu.eduriverhead/": {
+    "name": "Long Island University at Riverhead"
+  },
+  ".liu.educwis/rckld/": {
+    "name": "Long Island University–Rockland Graduate Campus"
+  },
+  "liu.educwis/west/": {
+    "name": "Long Island University–Westchester Graduate Campus"
+  },
+  "longwood.edu": {
+    "name": "Longwood University"
+  },
+  "longy.edu": {
+    "name": "Longy School of Music"
+  },
+  "loras.edu": {
+    "name": "Loras College"
+  },
+  "lacollege.edu": {
+    "name": "Louisiana College"
+  },
+  "lsu.edu": {
+    "name": "Louisiana State University"
+  },
+  "lsua.edu": {
+    "name": "Louisiana State University–Alexandria"
+  },
+  "law.lsu.edu": {
+    "name": "Louisiana State University–Law Center"
+  },
+  "lsuhsc.edu": {
+    "name": "Louisiana State University Health Sciences Center–New Orleans"
+  },
+  "lsuhscshreveport.edu": {
+    "name": "Louisiana State University Health Sciences Center–Shreveport"
+  },
+  "lsus.edu": {
+    "name": "Louisiana State University–Shreveport"
+  },
+  "lsusystem.edu": {
+    "name": "Louisiana State University System"
+  },
+  "latech.edu": {
+    "name": "Louisiana Tech University"
+  },
+  "lpts.edu": {
+    "name": "Louisville Presbyterian Theological Seminary"
+  },
+  "lourdes.edu": {
+    "name": "Lourdes University"
+  },
+  "loyola.edu": {
+    "name": "Loyola University Maryland"
+  },
+  "lmu.edu": {
+    "name": "Loyola Marymount University"
+  },
+  "luc.edu": {
+    "name": "Loyola University Chicago"
+  },
+  "loyno.edu": {
+    "name": "Loyola University New Orleans"
+  },
+  "lcu.edu": {
+    "name": "Lubbock Christian University"
+  },
+  "luther.edu": {
+    "name": "Luther College"
+  },
+  "luthersem.edu": {
+    "name": "Luther Seminary"
+  },
+  "lstc.edu": {
+    "name": "Lutheran School of Theology at Chicago"
+  },
+  "ltsg.edu": {
+    "name": "Lutheran Theological Seminary at Gettysburg"
+  },
+  "ltsp.edu": {
+    "name": "Lutheran Theological Seminary at Philadelphia"
+  },
+  "lycoming.edu": {
+    "name": "Lycoming College"
+  },
+  "lymeacademy.edu": {
+    "name": "Lyme Academy College of Fine Arts"
+  },
+  "lynchburg.edu": {
+    "name": "Lynchburg College"
+  },
+  "lyndonstate.edu": {
+    "name": "Lyndon State College"
+  },
+  "lynn.edu": {
+    "name": "Lynn University"
+  },
+  "lyon.edu": {
+    "name": "Lyon College"
+  },
+  "naropa.edu": {
+    "name": "Naropa University"
+  },
+  "national.edu": {
+    "name": "National American University"
+  },
+  "ncnm.edu": {
+    "name": "National College of Natural Medicine"
+  },
+  "ndu.edu": {
+    "name": "National Defense University"
+  },
+  "ngs.edu": {
+    "name": "National Graduate School of Quality Management"
+  },
+  "nhu.edu": {
+    "name": "National Hispanic University"
+  },
+  "ni-u.edu": {
+    "name": "National Intelligence University"
+  },
+  "nlc.edu": {
+    "name": "National Labor College"
+  },
+  "nl.edu": {
+    "name": "National-Louis University"
+  },
+  "nu.edu": {
+    "name": "National University"
+  },
+  "nuhs.edu": {
+    "name": "National University of Health Sciences"
+  },
+  "navajotech.edu": {
+    "name": "Navajo Technical College"
+  },
+  "nps.navy.mil": {
+    "name": "Naval Postgraduate School"
+  },
+  "nbc.edu": {
+    "name": "Nazarene Bible College"
+  },
+  "naz.edu": {
+    "name": "Nazareth College"
+  },
+  "nechristian.edu": {
+    "name": "Nebraska Christian College"
+  },
+  "methodistcollege.edu": {
+    "name": "Nebraska Methodist College"
+  },
+  "nebrwesleyan.edu": {
+    "name": "Nebraska Wesleyan University"
+  },
+  "neumann.edu": {
+    "name": "Neumann University"
+  },
+  "ncf.edu": {
+    "name": "New College of Florida"
+  },
+  "nec.edu": {
+    "name": "New England College"
+  },
+  "necb.edu": {
+    "name": "New England College of Business & Finance"
+  },
+  "neco.edu": {
+    "name": "New England College of Optometry"
+  },
+  "necmusic.edu": {
+    "name": "New England Conservatory of Music"
+  },
+  "artinstitutes.eduboston/": {
+    "name": "New England Institute of Art"
+  },
+  "neit.edu": {
+    "name": "New England Institute of Technology"
+  },
+  "newhope.edu": {
+    "name": "New Hope Christian College"
+  },
+  "njcu.edu": {
+    "name": "New Jersey City University"
+  },
+  "njit.edu": {
+    "name": "New Jersey Institute of Technology"
+  },
+  "nmhu.edu": {
+    "name": "New Mexico Highlands University"
+  },
+  "nmt.edu": {
+    "name": "New Mexico Institute of Mining & Technology"
+  },
+  "nmsu.edu": {
+    "name": "New Mexico State University"
+  },
+  "nobts.edu": {
+    "name": "New Orleans Baptist Theological Seminary"
+  },
+  "newschool.edu": {
+    "name": "The New School"
+  },
+  "nycc.edu": {
+    "name": "New York Chiropractic College"
+  },
+  "nyit.edu": {
+    "name": "New York Institute of Technology"
+  },
+  "nymc.edu": {
+    "name": "New York Medical College"
+  },
+  "nyu.edu": {
+    "name": "New York University"
+  },
+  "newberry.edu": {
+    "name": "Newberry College"
+  },
+  "newbury.edu": {
+    "name": "Newbury College"
+  },
+  "newmanu.edu": {
+    "name": "Newman University"
+  },
+  "niagara.edu": {
+    "name": "Niagara University"
+  },
+  "nichols.edu": {
+    "name": "Nichols College"
+  },
+  "nicholls.edu": {
+    "name": "Nicholls State University"
+  },
+  "nsu.edu": {
+    "name": "Norfolk State University"
+  },
+  "ncat.edu": {
+    "name": "North Carolina A&T State University"
+  },
+  "nccu.edu": {
+    "name": "North Carolina Central University"
+  },
+  "ncwc.edu": {
+    "name": "North Carolina Wesleyan College"
+  },
+  "northcentral.edu": {
+    "name": "North Central University"
+  },
+  "northcentralcollege.edu": {
+    "name": "North Central College"
+  },
+  "ncsu.edu": {
+    "name": "North Carolina State University"
+  },
+  "ndsu.edu": {
+    "name": "North Dakota State University"
+  },
+  "ngu.edu": {
+    "name": "North Greenville University"
+  },
+  "northpark.edu": {
+    "name": "North Park University"
+  },
+  "ncu.edu": {
+    "name": "Northcentral University"
+  },
+  "neomed.edu": {
+    "name": "Northeast Ohio Medical University"
+  },
+  "neiu.edu": {
+    "name": "Northeastern Illinois University"
+  },
+  "nes.edu": {
+    "name": "Northeastern Seminary at Roberts Wesleyan College"
+  },
+  "nsuok.edu": {
+    "name": "Northeastern State University"
+  },
+  "nsuok.eduBrokenArrow.aspx": {
+    "name": "Northeastern State University–Broken Arrow"
+  },
+  "nsuok.eduMuskogee.aspx": {
+    "name": "Northeastern State University–Muskogee"
+  },
+  "northeastern.edu": {
+    "name": "Northeastern University"
+  },
+  "nau.edu": {
+    "name": "Northern Arizona University"
+  },
+  "seminary.edu": {
+    "name": "Northern Baptist Theological Seminary"
+  },
+  "niu.edu": {
+    "name": "Northern Illinois University"
+  },
+  "nku.edu": {
+    "name": "Northern Kentucky University"
+  },
+  "nmu.edu": {
+    "name": "Northern Michigan University"
+  },
+  "nnmc.edu": {
+    "name": "Northern New Mexico College"
+  },
+  "northern.edu": {
+    "name": "Northern State University"
+  },
+  "northland.edu": {
+    "name": "Northland College"
+  },
+  "nwcu.edu": {
+    "name": "Northwest Christian University"
+  },
+  "nwfsc.edu": {
+    "name": "Northwest Florida State College"
+  },
+  "nwic.edu": {
+    "name": "Northwest Indian College"
+  },
+  "nwmissouri.edu": {
+    "name": "Northwest Missouri State University"
+  },
+  "nnu.edu": {
+    "name": "Northwest Nazarene University"
+  },
+  "northwestu.edu": {
+    "name": "Northwest University"
+  },
+  "nwciowa.edu": {
+    "name": "Northwestern College"
+  },
+  "nwhealth.edu": {
+    "name": "Northwestern Health Sciences University"
+  },
+  "nwosu.edu": {
+    "name": "Northwestern Oklahoma State University"
+  },
+  "nsula.edu": {
+    "name": "Northwestern State University of Louisiana"
+  },
+  "northwestern.edu": {
+    "name": "Northwestern University"
+  },
+  "northwood.edu": {
+    "name": "Northwood University"
+  },
+  "norwich.edu": {
+    "name": "Norwich University"
+  },
+  "notredamecollege.edu": {
+    "name": "Notre Dame College"
+  },
+  "ndnu.edu": {
+    "name": "Notre Dame de Namur University"
+  },
+  "nds.edu": {
+    "name": "Notre Dame Seminary"
+  },
+  "nova.edu": {
+    "name": "Nova Southeastern University"
+  },
+  "nyack.edu": {
+    "name": "Nyack College"
+  },
+  "pace.edu": {
+    "name": "Pace University"
+  },
+  "plu.edu": {
+    "name": "Pacific Lutheran University"
+  },
+  "pnca.edu": {
+    "name": "Pacific Northwest College of Art"
+  },
+  "pacificoaks.edu": {
+    "name": "Pacific Oaks College"
+  },
+  "psr.edu": {
+    "name": "Pacific School of Religion"
+  },
+  "puc.edu": {
+    "name": "Pacific Union College"
+  },
+  "pacificu.edu": {
+    "name": "Pacific University"
+  },
+  "pacifica.edu": {
+    "name": "Pacifica Graduate Institute"
+  },
+  "paine.edu": {
+    "name": "Paine College"
+  },
+  "pba.edu": {
+    "name": "Palm Beach Atlantic University"
+  },
+  "palmbeachstate.edu": {
+    "name": "Palm Beach State College"
+  },
+  "palmer.edu": {
+    "name": "Palmer College of Chiropractic"
+  },
+  "paloaltou.edu": {
+    "name": "Palo Alto University"
+  },
+  "prgs.edu": {
+    "name": "Pardee RAND Graduate School"
+  },
+  "park.edu": {
+    "name": "Park University"
+  },
+  "parker.edu": {
+    "name": "Parker University"
+  },
+  "patten.edu": {
+    "name": "Patten University"
+  },
+  "pqc.edu": {
+    "name": "Paul Quinn College"
+  },
+  "paulsmiths.edu": {
+    "name": "Paul Smith's College"
+  },
+  "peace.edu": {
+    "name": "Peace College"
+  },
+  "peirce.edu": {
+    "name": "Peirce College"
+  },
+  "pc.ctc.edu": {
+    "name": "Peninsula College"
+  },
+  "pcad.edu": {
+    "name": "Pennsylvania College of Art & Design"
+  },
+  "pacollege.edu": {
+    "name": "Pennsylvania College of Health Sciences"
+  },
+  "pct.edu": {
+    "name": "Pennsylvania College of Technology"
+  },
+  "psu.edu": {
+    "name": "Pennsylvania State University"
+  },
+  "abington.psu.edu": {
+    "name": "Pennsylvania State University–Abington"
+  },
+  "aa.psu.edu": {
+    "name": "Pennsylvania State University–Altoona"
+  },
+  "br.psu.edu": {
+    "name": "Pennsylvania State University–Beaver"
+  },
+  "bk.psu.edu": {
+    "name": "Pennsylvania State University–Berks"
+  },
+  "brandywine.psu.edu": {
+    "name": "Pennsylvania State University–Brandywine"
+  },
+  "law.psu.edu": {
+    "name": "Pennsylvania State University–Dickinson School of Law"
+  },
+  "ds.psu.edu": {
+    "name": "Pennsylvania State University–DuBois"
+  },
+  "psbehrend.psu.edu": {
+    "name": "Pennsylvania State University–Erie, The Behrend College"
+  },
+  "fe.psu.edu": {
+    "name": "Pennsylvania State University–Fayette, The Eberly Campus"
+  },
+  "sgps.psu.edu": {
+    "name": "Pennsylvania State University–Great Valley School of Graduate Professional Studies"
+  },
+  "ga.psu.edu": {
+    "name": "Pennsylvania State University–Greater Allegheny"
+  },
+  "hbg.psu.edu": {
+    "name": "Pennsylvania State University–Harrisburg"
+  },
+  "hazleton.psu.edu": {
+    "name": "Pennsylvania State University–Hazleton"
+  },
+  "lv.psu.edu": {
+    "name": "Pennsylvania State University–Lehigh Valley"
+  },
+  "pennstatehershey.org": {
+    "name": "Pennsylvania State University–Milton S. Hershey Medical Center"
+  },
+  "ma.psu.edu": {
+    "name": "Pennsylvania State University–Mont Alto"
+  },
+  "nk.psu.edu": {
+    "name": "Pennsylvania State University–New Kensington"
+  },
+  "sl.psu.edu": {
+    "name": "Pennsylvania State University–Schuylkill"
+  },
+  "shenango.psu.edu": {
+    "name": "Pennsylvania State University–Shenango"
+  },
+  "wb.psu.edu": {
+    "name": "Pennsylvania State University–Wilkes-Barre"
+  },
+  "sn.psu.edu": {
+    "name": "Pennsylvania State University–Worthington Scranton"
+  },
+  "yk.psu.edu": {
+    "name": "Pennsylvania State University–York"
+  },
+  "pensacolastate.edu": {
+    "name": "Pensacola State College"
+  },
+  "ptseminary.edu": {
+    "name": "Pentecostal Theological Seminary"
+  },
+  "pepperdine.edu": {
+    "name": "Pepperdine University"
+  },
+  "peru.edu": {
+    "name": "Peru State College"
+  },
+  "pfeiffer.edu": {
+    "name": "Pfeiffer University"
+  },
+  "pcom.edu": {
+    "name": "Philadelphia College of Osteopathic Medicine"
+  },
+  "philau.edu": {
+    "name": "Philadelphia College of Textiles & Science"
+  },
+  "philander.edu": {
+    "name": "Philander Smith College"
+  },
+  "pgi.edu": {
+    "name": "Phillips Graduate Institute"
+  },
+  "ptstulsa.edu": {
+    "name": "Phillips Theological Seminary"
+  },
+  "pulf.org": {
+    "name": "Phillips University"
+  },
+  "piedmont.edu": {
+    "name": "Piedmont College"
+  },
+  "pmc.edu": {
+    "name": "Pine Manor College"
+  },
+  "pittstate.edu": {
+    "name": "Pittsburg State University"
+  },
+  "pts.edu": {
+    "name": "Pittsburgh Theological Seminary"
+  },
+  "plymouth.edu": {
+    "name": "Plymouth State University"
+  },
+  "pointloma.edu": {
+    "name": "Point Loma Nazarene University"
+  },
+  "pointpark.edu": {
+    "name": "Point Park University"
+  },
+  "point.edu": {
+    "name": "Point University"
+  },
+  "polk.edu": {
+    "name": "Polk State College"
+  },
+  "poly.edu": {
+    "name": "Polytechnic Institute of New York University"
+  },
+  "psm.edu": {
+    "name": "Ponce School of Medicine & Health Sciences"
+  },
+  "pcj.edu": {
+    "name": "Pontifical College Josephinum"
+  },
+  "pucpr.edu": {
+    "name": "Pontificia Universidad Católica de Puerto Rico"
+  },
+  "pdx.edu": {
+    "name": "Portland State University"
+  },
+  "post.edu": {
+    "name": "Post University"
+  },
+  "potomac.edu": {
+    "name": "Potomac College"
+  },
+  "pvamu.edu": {
+    "name": "Prairie View A&M University"
+  },
+  "pratt.edu": {
+    "name": "Pratt Institute"
+  },
+  "prescott.edu": {
+    "name": "Prescott College"
+  },
+  "presentation.edu": {
+    "name": "Presentation College"
+  },
+  "ptsem.edu": {
+    "name": "Princeton Theological Seminary"
+  },
+  "princeton.edu": {
+    "name": "Princeton University"
+  },
+  "principiacollege.edu": {
+    "name": "Principia College"
+  },
+  "presby.edu": {
+    "name": "Presbyterian College"
+  },
+  "providence.edu": {
+    "name": "Providence College"
+  },
+  "purdue.edu": {
+    "name": "Purdue University"
+  },
+  "purduecal.edu": {
+    "name": "Purdue University–Calumet"
+  },
+  "pnc.edu": {
+    "name": "Purdue University–North Central"
+  },
+  "tech.purdue.eduanderson/": {
+    "name": "Purdue University College of Technology–Anderson/Muncie"
+  },
+  "tech.purdue.educolumbus/": {
+    "name": "Purdue University College of Technology–Columbus/Greensburg"
+  },
+  "tech.purdue.eduindy/": {
+    "name": "Purdue University College of Technology–Indianapolis"
+  },
+  "tech.purdue.edukokomo/": {
+    "name": "Purdue University College of Technology–Kokomo"
+  },
+  "tech.purdue.edulafayette/": {
+    "name": "Purdue University College of Technology–Lafayette"
+  },
+  "tech.purdue.edunewalbany/": {
+    "name": "Purdue University College of Technology–New Albany"
+  },
+  "tech.purdue.edurichmond/": {
+    "name": "Purdue University College of Technology–Richmond"
+  },
+  "tech.purdue.edusouthbend/": {
+    "name": "Purdue University College of Technology–South Bend/Elkhart"
+  },
+  "shms.edu": {
+    "name": "Sacred Heart Major Seminary"
+  },
+  "shst.edu": {
+    "name": "Sacred Heart School of Theology"
+  },
+  "sacredheart.edu": {
+    "name": "Sacred Heart University"
+  },
+  "sage.edu": {
+    "name": "The Sage Colleges"
+  },
+  "svsu.edu": {
+    "name": "Saginaw Valley State University"
+  },
+  "sau.edu": {
+    "name": "Saint Ambrose University"
+  },
+  "sapc.edu": {
+    "name": "Saint Andrews Presbyterian College"
+  },
+  "anselm.edu": {
+    "name": "Saint Anselm College"
+  },
+  "sacn.edu": {
+    "name": "Saint Anthony College of Nursing"
+  },
+  "staugustine.edu": {
+    "name": "Saint Augustine College"
+  },
+  "st-aug.edu": {
+    "name": "Saint Augustine's University"
+  },
+  "sbu.edu": {
+    "name": "Saint Bonaventure University"
+  },
+  "stkate.edu": {
+    "name": "Saint Catherine University"
+  },
+  "sccky.edu": {
+    "name": "Saint Catharine College"
+  },
+  "scs.edu": {
+    "name": "Saint Charles Borromeo Seminary"
+  },
+  "stcloudstate.edu": {
+    "name": "Saint Cloud State University"
+  },
+  "stedwards.edu": {
+    "name": "Saint Edward's University"
+  },
+  "sfc.edu": {
+    "name": "Saint Francis College"
+  },
+  "sfmccon.edu": {
+    "name": "Saint Francis Medical Center College of Nursing"
+  },
+  "francis.edu": {
+    "name": "Saint Francis University"
+  },
+  "stgregoryseminary.edu": {
+    "name": "Saint Gregory the Great Seminary"
+  },
+  "stgregorys.edu": {
+    "name": "Saint Gregory's University"
+  },
+  "sjfc.edu": {
+    "name": "Saint John Fisher College"
+  },
+  "sjvcs.edu": {
+    "name": "Saint John Vianney College Seminary"
+  },
+  "sjca.edu": {
+    "name": "Saint John's College–Annapolis"
+  },
+  "sjcsf.edu": {
+    "name": "Saint John's College–Santa Fe"
+  },
+  "stjohnscollegespringfield.edu": {
+    "name": "Saint John's College"
+  },
+  "stjohnsem.edu": {
+    "name": "Saint John's Seminary"
+  },
+  "sjs.edu": {
+    "name": "Saint John's Seminary"
+  },
+  "csbsju.edu": {
+    "name": "College of Saint Benedict"
+  },
+  "stjohns.edu": {
+    "name": "Saint John's University"
+  },
+  "sjrstate.edu": {
+    "name": "Saint Johns River State College"
+  },
+  "sjc.edu": {
+    "name": "Saint Joseph College"
+  },
+  "sjasc.edu": {
+    "name": "Saint Joseph Seminary College"
+  },
+  "saintjoe.edu": {
+    "name": "Saint Joseph's College"
+  },
+  "sjcny.edu": {
+    "name": "Saint Joseph's College"
+  },
+  "sjcme.edu": {
+    "name": "Saint Joseph's College of Maine"
+  },
+  "dunwoodie.edu": {
+    "name": "Saint Joseph's Seminary"
+  },
+  "sju.edu": {
+    "name": "Saint Joseph's University"
+  },
+  "stlawu.edu": {
+    "name": "Saint Lawrence University"
+  },
+  "saintleo.edu": {
+    "name": "Saint Leo University"
+  },
+  "stlcop.edu": {
+    "name": "Saint Louis College of Pharmacy"
+  },
+  "slu.edu": {
+    "name": "Saint Louis University"
+  },
+  "saintlukescollege.edu": {
+    "name": "Saint Luke's College of Health Sciences"
+  },
+  "stmartin.edu": {
+    "name": "Saint Martin's University"
+  },
+  "stmarysem.edu": {
+    "name": "Saint Mary Seminary & Graduate School of Theology"
+  },
+  "smwc.edu": {
+    "name": "Saint Mary-of-the-Woods College"
+  },
+  "saintmarys.edu": {
+    "name": "Saint Mary's College"
+  },
+  "stmarys-ca.edu": {
+    "name": "Saint Mary's College of California"
+  },
+  "smcm.edu": {
+    "name": "Saint Mary's College of Maryland"
+  },
+  "stmarys.edu": {
+    "name": "Saint Mary's Seminary & University"
+  },
+  "smumn.edu": {
+    "name": "Saint Mary's University of Minnesota"
+  },
+  "stmarytx.edu": {
+    "name": "Saint Mary's University"
+  },
+  "saintmeinrad.edu": {
+    "name": "Saint Meinrad Seminary & School of Theology"
+  },
+  "smcvt.edu": {
+    "name": "Saint Michael's College"
+  },
+  "snc.edu": {
+    "name": "Saint Norbert College"
+  },
+  "stolaf.edu": {
+    "name": "Saint Olaf College"
+  },
+  "stpatricksseminary.org": {
+    "name": "Saint Patrick's Seminary & University"
+  },
+  "spst.edu": {
+    "name": "Saint Paul School of Theology"
+  },
+  "saintpaulsnet.com": {
+    "name": "Saint Paul's College"
+  },
+  "spc.edu": {
+    "name": "Saint Peter's College"
+  },
+  "spjc.edu": {
+    "name": "Saint Petersburg College"
+  },
+  "stac.edu": {
+    "name": "Saint Thomas Aquinas College"
+  },
+  "stu.edu": {
+    "name": "Saint Thomas University"
+  },
+  "stvincent.edu": {
+    "name": "Saint Vincent College"
+  },
+  "svdp.edu": {
+    "name": "Saint Vincent de Paul Regional Seminary"
+  },
+  "stvincentscollege.edu": {
+    "name": "Saint Vincent's College"
+  },
+  "sxu.edu": {
+    "name": "Saint Xavier University"
+  },
+  "salem.edu": {
+    "name": "Salem College"
+  },
+  "salemu.edu": {
+    "name": "Salem International University"
+  },
+  "salemstate.edu": {
+    "name": "Salem State University"
+  },
+  "salisbury.edu": {
+    "name": "Salisbury University"
+  },
+  "skc.edu": {
+    "name": "Salish Kootenai College"
+  },
+  "salus.edu": {
+    "name": "Salus University"
+  },
+  "salve.edu": {
+    "name": "Salve Regina University"
+  },
+  "shsu.edu": {
+    "name": "Sam Houston State University"
+  },
+  "samford.edu": {
+    "name": "Samford University"
+  },
+  "samuelmerritt.edu": {
+    "name": "Samuel Merritt University"
+  },
+  "sdcc.edu": {
+    "name": "San Diego Christian College"
+  },
+  "sdsu.edu": {
+    "name": "San Diego State University"
+  },
+  "sfai.edu": {
+    "name": "San Francisco Art Institute"
+  },
+  "sfcm.edu": {
+    "name": "San Francisco Conservatory of Music"
+  },
+  "sfsu.edu": {
+    "name": "San Francisco State University"
+  },
+  "sfts.edu": {
+    "name": "San Francisco Theological Seminary"
+  },
+  "sjcl.edu": {
+    "name": "San Joaquin College of Law"
+  },
+  "sjsu.edu": {
+    "name": "San José State University"
+  },
+  "sanjuanbautista.edu": {
+    "name": "San Juan Bautista School of Medicine"
+  },
+  "bismarck.sanfordhealth.orgcollegeofnursing/": {
+    "name": "Sanford College of Nursing"
+  },
+  "scu.edu": {
+    "name": "Santa Clara University"
+  },
+  "sfcollege.edu": {
+    "name": "Santa Fe College"
+  },
+  "santafeuniversity.edu": {
+    "name": "Santa Fe University of Art & Design"
+  },
+  "slc.edu": {
+    "name": "Sarah Lawrence College"
+  },
+  "scad.edu": {
+    "name": "Savannah College of Art & Design"
+  },
+  "savannahstate.edu": {
+    "name": "Savannah State University"
+  },
+  "saybrook.edu": {
+    "name": "Saybrook University"
+  },
+  "sit.edu": {
+    "name": "School for International Training"
+  },
+  "saic.edu": {
+    "name": "School of the Art Institute of Chicago"
+  },
+  "sva.edu": {
+    "name": "School of Visual Arts"
+  },
+  "schreiner.edu": {
+    "name": "Schreiner University"
+  },
+  "scripps.edu": {
+    "name": "Scripps Research Institute"
+  },
+  "spu.edu": {
+    "name": "Seattle Pacific University"
+  },
+  "seattleu.edu": {
+    "name": "Seattle University"
+  },
+  "se-pr.edu": {
+    "name": "Seminario Evangélico de Puerto Rico"
+  },
+  "icseminary.edu": {
+    "name": "Seminary of the Immaculate Conception"
+  },
+  "ssw.edu": {
+    "name": "Seminary of the Southwest"
+  },
+  "seminolestate.edu": {
+    "name": "Seminole State College of Florida"
+  },
+  "shu.edu": {
+    "name": "Seton Hall University"
+  },
+  "setonhill.edu": {
+    "name": "Seton Hill University"
+  },
+  "shawuniversity.edu": {
+    "name": "Shaw University"
+  },
+  "shawnee.edu": {
+    "name": "Shawnee State University"
+  },
+  "su.edu": {
+    "name": "Shenandoah University"
+  },
+  "shepherd.edu": {
+    "name": "Shepherd University"
+  },
+  "sherman.edu": {
+    "name": "Sherman College of Chiropractic"
+  },
+  "shimer.edu": {
+    "name": "Shimer College"
+  },
+  "ship.edu": {
+    "name": "Shippensburg University of Pennsylvania"
+  },
+  "shorter.edu": {
+    "name": "Shorter College"
+  },
+  "siegalcollege.edu": {
+    "name": "Siegal College of Judaic Studies"
+  },
+  "siena.edu": {
+    "name": "Siena College"
+  },
+  "sienaheights.edu": {
+    "name": "Siena Heights University"
+  },
+  "sierranevada.edu": {
+    "name": "Sierra Nevada College"
+  },
+  "sl.edu": {
+    "name": "Silver Lake College"
+  },
+  "simmons.edu": {
+    "name": "Simmons College"
+  },
+  "sintegleska.edu": {
+    "name": "Sinte Gleska University"
+  },
+  "simpsonu.edu": {
+    "name": "Simpson University"
+  },
+  "simpson.edu": {
+    "name": "Simpson College"
+  },
+  "sfseminary.edu": {
+    "name": "Sioux Falls Seminary"
+  },
+  "suagm.edu": {
+    "name": "Sistema Universitario Ana G. Méndez"
+  },
+  "suagm.eduune/": {
+    "name": "Universidad del Este"
+  },
+  "suagm.eduumet/": {
+    "name": "Universidad Metropolitana"
+  },
+  "suagm.eduturabo/": {
+    "name": "Universidad del Turabo"
+  },
+  "sittingbull.edu": {
+    "name": "Sitting Bull College"
+  },
+  "skidmore.edu": {
+    "name": "Skidmore College"
+  },
+  "sru.edu": {
+    "name": "Slippery Rock University of Pennsylvania"
+  },
+  "smith.edu": {
+    "name": "Smith College"
+  },
+  "sofia.edu": {
+    "name": "Sofia University"
+  },
+  "soka.edu": {
+    "name": "Soka University of America"
+  },
+  "somerset.edu": {
+    "name": "Somerset Christian College"
+  },
+  "sonoma.edu": {
+    "name": "Sonoma State University"
+  },
+  "sdc.edu": {
+    "name": "Soujourner-Douglass College"
+  },
+  "scsu.edu": {
+    "name": "South Carolina State University"
+  },
+  "southcollegetn.edu": {
+    "name": "South College"
+  },
+  "sdsmt.edu": {
+    "name": "South Dakota School of Mines & Technology"
+  },
+  "sdstate.edu": {
+    "name": "South Dakota State University"
+  },
+  "sfbc.edu": {
+    "name": "South Florida Bible College & Theological Seminary"
+  },
+  "stcl.edu": {
+    "name": "South Texas College of Law"
+  },
+  "southuniversity.edu": {
+    "name": "South University"
+  },
+  "semo.edu": {
+    "name": "Southeast Missouri State University"
+  },
+  "sebts.edu": {
+    "name": "Southeastern Baptist Theological Seminary"
+  },
+  "sebc.edu": {
+    "name": "Southeastern Bible College"
+  },
+  "seu.edu": {
+    "name": "Southeastern University"
+  },
+  "selu.edu": {
+    "name": "Southeastern Louisiana University"
+  },
+  "se.edu": {
+    "name": "Southeastern Oklahoma State University"
+  },
+  "southern.edu": {
+    "name": "Southern Adventist University"
+  },
+  "saumag.edu": {
+    "name": "Southern Arkansas University"
+  },
+  "sbts.edu": {
+    "name": "Southern Baptist Theological Seminary"
+  },
+  "scco.edu": {
+    "name": "Southern California College of Optometry"
+  },
+  "sciarc.edu": {
+    "name": "Southern California Institute of Architecture"
+  },
+  "scuhs.edu": {
+    "name": "Southern California University of Health Sciences"
+  },
+  "sco.edu": {
+    "name": "Southern College of Optometry"
+  },
+  "southernct.edu": {
+    "name": "Southern Connecticut State University"
+  },
+  "siuc.edu": {
+    "name": "Southern Illinois University–Carbondale"
+  },
+  "siue.edu": {
+    "name": "Southern Illinois University–Edwardsville"
+  },
+  "siu.edu": {
+    "name": "Southern Illinois University System"
+  },
+  "smu.edu": {
+    "name": "Southern Methodist University"
+  },
+  "snu.edu": {
+    "name": "Southern Nazarene University"
+  },
+  "snhu.edu": {
+    "name": "Southern New Hampshire University"
+  },
+  "sou.edu": {
+    "name": "Southern Oregon University"
+  },
+  "spsu.edu": {
+    "name": "Southern Polytechnic State University"
+  },
+  "subr.edu": {
+    "name": "Southern University and A&M College at Baton Rouge"
+  },
+  "suno.edu": {
+    "name": "Southern University at New Orleans"
+  },
+  "susla.edu": {
+    "name": "Southern University at Shreveport"
+  },
+  "sus.edu": {
+    "name": "Southern University System"
+  },
+  "suu.edu": {
+    "name": "Southern Utah University"
+  },
+  "svc.edu": {
+    "name": "Southern Vermont College"
+  },
+  "svu.edu": {
+    "name": "Southern Virginia University"
+  },
+  "swu.edu": {
+    "name": "Southern Wesleyan University"
+  },
+  "sbuniv.edu": {
+    "name": "Southwest Baptist University"
+  },
+  "scnm.edu": {
+    "name": "Southwest College of Naturopathic Medicine & Health Sciences"
+  },
+  "smsu.edu": {
+    "name": "Southwest Minnesota State University"
+  },
+  "swau.edu": {
+    "name": "Southwestern Adventist University"
+  },
+  "sagu.edu": {
+    "name": "Southwestern Assemblies of God University"
+  },
+  "swbts.edu": {
+    "name": "Southwestern Baptist Theological Seminary"
+  },
+  "swcc.edu": {
+    "name": "Southwestern Christian College"
+  },
+  "swcu.edu": {
+    "name": "Southwestern Christian University"
+  },
+  "sckans.edu": {
+    "name": "Southwestern College"
+  },
+  "swc.edu": {
+    "name": "Southwestern College"
+  },
+  "swosu.edu": {
+    "name": "Southwestern Oklahoma State University"
+  },
+  "southwestern.edu": {
+    "name": "Southwestern University"
+  },
+  "spalding.edu": {
+    "name": "Spalding University"
+  },
+  "spelman.edu": {
+    "name": "Spelman College"
+  },
+  "spertus.edu": {
+    "name": "Spertus Institute of Jewish Studies"
+  },
+  "arbor.edu": {
+    "name": "Spring Arbor University"
+  },
+  "shc.edu": {
+    "name": "Spring Hill College"
+  },
+  "spfldcol.edu": {
+    "name": "Springfield College"
+  },
+  "stanford.edu": {
+    "name": "Stanford University"
+  },
+  "scf.edu": {
+    "name": "State College of Florida, Manatee-Sarasota"
+  },
+  "suny.edu": {
+    "name": "State University of New York System"
+  },
+  "albany.edu": {
+    "name": "Albany"
+  },
+  "alfredstate.edu": {
+    "name": "Alfred State University"
+  },
+  "binghamton.edu": {
+    "name": "Binghamton"
+  },
+  "buffalo.edu": {
+    "name": "Buffalo"
+  },
+  "buffalostate.edu": {
+    "name": "Buffalo State College"
+  },
+  "stonybrook.edu": {
+    "name": "Stony Brook"
+  },
+  "brockport.edu": {
+    "name": "College at Brockport"
+  },
+  "cortland.edu": {
+    "name": "College at Cortland"
+  },
+  "fredonia.edu": {
+    "name": "College at Fredonia"
+  },
+  "geneseo.edu": {
+    "name": "College at Geneseo"
+  },
+  "newpaltz.edu": {
+    "name": "College at New Paltz"
+  },
+  "oldwestbury.edu": {
+    "name": "College at Old Westbury"
+  },
+  "oneonta.edu": {
+    "name": "College at Oneonta"
+  },
+  "oswego.edu": {
+    "name": "College at Oswego"
+  },
+  "plattsburgh.edu": {
+    "name": "College at Plattsburgh"
+  },
+  "potsdam.edu": {
+    "name": "College at Potsdam"
+  },
+  "purchase.edu": {
+    "name": "College at Purchase"
+  },
+  "cobleskill.edu": {
+    "name": "College of Agriculture & Technology at Cobleskill"
+  },
+  "morrisville.edu": {
+    "name": "College of Agriculture & Technology at Morrisville (Morrisville State College)"
+  },
+  "esf.edu": {
+    "name": "College of Environmental Science & Forestry"
+  },
+  "sunyopt.edu": {
+    "name": "College of Optometry"
+  },
+  "canton.edu": {
+    "name": "College of Technology at Canton"
+  },
+  "delhi.edu": {
+    "name": "College of Technology at Delhi"
+  },
+  "downstate.edu": {
+    "name": "Downstate Medical Center"
+  },
+  "esc.edu": {
+    "name": "Empire State College"
+  },
+  "farmingdale.edu": {
+    "name": "Farmingdale State College"
+  },
+  "fitnyc.edu": {
+    "name": "Fashion Institute of Technology"
+  },
+  "sunyit.edu": {
+    "name": "Institute of Technology at Utica/Rome"
+  },
+  "sunymaritime.edu": {
+    "name": "Maritime College at Fort Schuyler"
+  },
+  "upstate.edu": {
+    "name": "Upstate Medical University"
+  },
+  "sfasu.edu": {
+    "name": "Stephen F. Austin State University"
+  },
+  "stephens.edu": {
+    "name": "Stephens College"
+  },
+  "sterling.edu": {
+    "name": "Sterling College"
+  },
+  "sterlingcollege.edu": {
+    "name": "Sterling College"
+  },
+  "stetson.edu": {
+    "name": "Stetson University"
+  },
+  "stevens.edu": {
+    "name": "Stevens Institute of Technology"
+  },
+  "stevenson.edu": {
+    "name": "Stevenson University"
+  },
+  "stillman.edu": {
+    "name": "Stillman College"
+  },
+  "stonehill.edu": {
+    "name": "Stonehill College"
+  },
+  "strayer.edu": {
+    "name": "Strayer University"
+  },
+  "suffolk.edu": {
+    "name": "Suffolk University"
+  },
+  "sulross.edu": {
+    "name": "Sul Ross State University"
+  },
+  "sullivan.edu": {
+    "name": "Sullivan University"
+  },
+  "susqu.edu": {
+    "name": "Susquehanna University"
+  },
+  "swarthmore.edu": {
+    "name": "Swarthmore College"
+  },
+  "sbc.edu": {
+    "name": "Sweet Briar College"
+  },
+  "syracuse.edu": {
+    "name": "Syracuse University"
+  },
+  "pacific.edu": {
+    "name": "University of the Pacific"
+  },
+  "upenn.edu": {
+    "name": "University of Pennsylvania"
+  },
+  "phoenix.edu": {
+    "name": "University of Phoenix"
+  },
+  "upike.edu": {
+    "name": "University of Pikeville"
+  },
+  "pitt.edu": {
+    "name": "University of Pittsburgh"
+  },
+  "upb.pitt.edu": {
+    "name": "University of Pittsburgh–Bradford"
+  },
+  "upg.pitt.edu": {
+    "name": "University of Pittsburgh–Greensburg"
+  },
+  "upj.pitt.edu": {
+    "name": "University of Pittsburgh–Johnstown"
+  },
+  "up.edu": {
+    "name": "University of Portland"
+  },
+  "uprag.edu": {
+    "name": "University of Puerto Rico–Aguadilla"
+  },
+  "upra.edu": {
+    "name": "University of Puerto Rico–Arecibo"
+  },
+  "uprb.edu": {
+    "name": "University of Puerto Rico–Bayamón"
+  },
+  "uprc.edu": {
+    "name": "University of Puerto Rico–Carolina"
+  },
+  "cayey.upr.edu": {
+    "name": "University of Puerto Rico–Cayey"
+  },
+  "rcm.upr.edu": {
+    "name": "University of Puerto Rico–Ciencias Médicas"
+  },
+  "uprh.edu": {
+    "name": "University of Puerto Rico–Humacao"
+  },
+  "uprm.edu": {
+    "name": "University of Puerto Rico–Mayagüez"
+  },
+  "uprp.edu": {
+    "name": "University of Puerto Rico–Ponce"
+  },
+  "uprrp.edu": {
+    "name": "University of Puerto Rico–Río Piedras"
+  },
+  "upr.edu": {
+    "name": "University of Puerto Rico System"
+  },
+  "uprutuado.edu": {
+    "name": "University of Puerto Rico–Utuado"
+  },
+  "pugetsound.edu": {
+    "name": "University of Puget Sound"
+  },
+  "redlands.edu": {
+    "name": "University of Redlands"
+  },
+  "uri.edu": {
+    "name": "University of Rhode Island"
+  },
+  "richmond.edu": {
+    "name": "University of Richmond"
+  },
+  "rio.edu": {
+    "name": "University of Rio Grande"
+  },
+  "rochester.edu": {
+    "name": "University of Rochester"
+  },
+  "rockies.edu": {
+    "name": "University of the Rockies"
+  },
+  "stfrancis.edu": {
+    "name": "University of St. Francis"
+  },
+  "sf.edu": {
+    "name": "University of Saint Francis"
+  },
+  "stmary.edu": {
+    "name": "University of Saint Mary"
+  },
+  "sandiego.edu": {
+    "name": "University of San Diego"
+  },
+  "usfca.edu": {
+    "name": "University of San Francisco"
+  },
+  "usao.edu": {
+    "name": "University of Science & Arts of Oklahoma"
+  },
+  "usciences.edu": {
+    "name": "University of the Sciences in Philadelphia"
+  },
+  "matrix.scranton.edu": {
+    "name": "University of Scranton"
+  },
+  "usiouxfalls.edu": {
+    "name": "University of Sioux Falls"
+  },
+  "usc.edu": {
+    "name": "University of Southern California"
+  },
+  "usm.maine.edu": {
+    "name": "University of Southern Maine"
+  },
+  "sc.edu": {
+    "name": "University of South Carolina"
+  },
+  "usca.edu": {
+    "name": "University of South Carolina–Aiken"
+  },
+  "uscb.edu": {
+    "name": "University of South Carolina–Beaufort"
+  },
+  "sc.eduabout/system_and_campuses/": {
+    "name": "University of South Carolina System"
+  },
+  "uscupstate.edu": {
+    "name": "University of South Carolina–Upstate"
+  },
+  "usd.edu": {
+    "name": "University of South Dakota"
+  },
+  "usf.edu": {
+    "name": "University of South Florida"
+  },
+  "usfsp.edu": {
+    "name": "University of South Florida Saint Petersburg"
+  },
+  "usfsm.edu": {
+    "name": "University of South Florida Sarasota–Manatee"
+  },
+  "usm.edu": {
+    "name": "University of Southern Mississippi"
+  },
+  "stthom.edu": {
+    "name": "University of Saint Thomas"
+  },
+  "stthomas.edu": {
+    "name": "University of Saint Thomas"
+  },
+  "usouthal.edu": {
+    "name": "University of South Alabama"
+  },
+  "usi.edu": {
+    "name": "University of Southern Indiana"
+  },
+  "ut.edu": {
+    "name": "University of Tampa"
+  },
+  "utk.edu": {
+    "name": "University of Tennessee"
+  },
+  "utc.edu": {
+    "name": "University of Tennessee–Chattanooga"
+  },
+  "uthsc.edu": {
+    "name": "University of Tennessee Health Science Center"
+  },
+  "utm.edu": {
+    "name": "University of Tennessee–Martin"
+  },
+  "tennessee.edu": {
+    "name": "University of Tennessee System"
+  },
+  "uta.edu": {
+    "name": "University of Texas–Arlington"
+  },
+  "utexas.edu": {
+    "name": "University of Texas–Austin"
+  },
+  "utb.edu": {
+    "name": "University of Texas–Brownsville"
+  },
+  "utdallas.edu": {
+    "name": "University of Texas–Dallas"
+  },
+  "utep.edu": {
+    "name": "University of Texas–El Paso"
+  },
+  "uthouston.edu": {
+    "name": "University of Texas Health Science Center at Houston"
+  },
+  "uthscsa.edu": {
+    "name": "University of Texas Health Science Center at San Antonio"
+  },
+  "uthct.edu": {
+    "name": "University of Texas Health Science Center at Tyler"
+  },
+  "mdanderson.org": {
+    "name": "University of Texas M.D. Anderson Cancer Center"
+  },
+  "utmb.edu": {
+    "name": "University of Texas Medical Branch at Galveston"
+  },
+  "utpa.edu": {
+    "name": "University of Texas–Pan American"
+  },
+  "utpb.edu": {
+    "name": "University of Texas of the Permian Basin"
+  },
+  "utsa.edu": {
+    "name": "University of Texas–San Antonio"
+  },
+  "utsouthwestern.edu": {
+    "name": "University of Texas Southwestern Medical Center at Dallas"
+  },
+  "utsystem.edu": {
+    "name": "University of Texas System"
+  },
+  "uttyler.edu": {
+    "name": "University of Texas–Tyler"
+  },
+  "uarts.edu": {
+    "name": "University of the Arts"
+  },
+  "ucumberlands.edu": {
+    "name": "University of the Cumberlands"
+  },
+  "uiw.edu": {
+    "name": "University of the Incarnate Word"
+  },
+  "sewanee.edu": {
+    "name": "University of the South"
+  },
+  "usw.edu": {
+    "name": "University of the Southwest"
+  },
+  "utoledo.edu": {
+    "name": "University of Toledo"
+  },
+  "utulsa.edu": {
+    "name": "University of Tulsa"
+  },
+  "utah.edu": {
+    "name": "University of Utah"
+  },
+  "uvm.edu": {
+    "name": "University of Vermont"
+  },
+  "uvi.edu": {
+    "name": "University of the Virgin Islands"
+  },
+  "virginia.edu": {
+    "name": "University of Virginia"
+  },
+  "wise.virginia.edu": {
+    "name": "University of Virginia's College at Wise"
+  },
+  "washington.edu": {
+    "name": "University of Washington"
+  },
+  "uwb.edu": {
+    "name": "University of Washington–Bothell"
+  },
+  "tacoma.uw.edu": {
+    "name": "University of Washington–Tacoma"
+  },
+  "uwa.edu": {
+    "name": "University of West Alabama"
+  },
+  "uwf.edu": {
+    "name": "University of West Florida"
+  },
+  "westga.edu": {
+    "name": "University of West Georgia"
+  },
+  "uws.edu": {
+    "name": "University of Western States"
+  },
+  "uwest.edu": {
+    "name": "University of the West"
+  },
+  "uwec.edu": {
+    "name": "University of Wisconsin–Eau Claire"
+  },
+  "uwgb.edu": {
+    "name": "University of Wisconsin–Green Bay"
+  },
+  "uwlax.edu": {
+    "name": "University of Wisconsin–La Crosse"
+  },
+  "wisc.edu": {
+    "name": "University of Wisconsin–Madison"
+  },
+  "uwm.edu": {
+    "name": "University of Wisconsin–Milwaukee"
+  },
+  "uwosh.edu": {
+    "name": "University of Wisconsin–Oshkosh"
+  },
+  "uwp.edu": {
+    "name": "University of Wisconsin–Parkside"
+  },
+  "uwplatt.edu": {
+    "name": "University of Wisconsin–Platteville"
+  },
+  "uwrf.edu": {
+    "name": "University of Wisconsin–River Falls"
+  },
+  "uwsp.edu": {
+    "name": "University of Wisconsin–Stevens Point"
+  },
+  "uwstout.edu": {
+    "name": "University of Wisconsin–Stout"
+  },
+  "uwsuper.edu": {
+    "name": "University of Wisconsin–Superior"
+  },
+  "uwsa.edu": {
+    "name": "University of Wisconsin System"
+  },
+  "uww.edu": {
+    "name": "University of Wisconsin–Whitewater"
+  },
+  "uwyo.edu": {
+    "name": "University of Wyoming"
+  },
+  "xavier.edu": {
+    "name": "Xavier University"
+  },
+  "xula.edu": {
+    "name": "Xavier University of Louisiana"
+  },
+  "yale.edu": {
+    "name": "Yale University"
+  },
+  "yu.edu": {
+    "name": "Yeshiva University"
+  },
+  "york.edu": {
+    "name": "York College"
+  },
+  "ycp.edu": {
+    "name": "York College of Pennsylvania"
+  },
+  "yhc.edu": {
+    "name": "Young Harris College"
+  },
+  "ysu.edu": {
+    "name": "Youngstown State University"
+  },
+  "babson.edu": {
+    "name": "Babson College"
+  },
+  "bacone.edu": {
+    "name": "Bacone College"
+  },
+  "bw.edu": {
+    "name": "Baldwin-Wallace College"
+  },
+  "bsu.edu": {
+    "name": "Ball State University"
+  },
+  "baker.edu": {
+    "name": "Baker College"
+  },
+  "bakeru.edu": {
+    "name": "Baker University"
+  },
+  "bts.edu": {
+    "name": "Bangor Theological Seminary"
+  },
+  "bankstreet.edu": {
+    "name": "Bank Street College of Education"
+  },
+  "gobbc.edu": {
+    "name": "Baptist Bible College"
+  },
+  "bbc.edu": {
+    "name": "Baptist Bible College & Seminary"
+  },
+  "baptistcollege.edu": {
+    "name": "The Baptist College of Florida"
+  },
+  "bchs.edu": {
+    "name": "Baptist Memorial College of Health Sciences"
+  },
+  "bmats.edu": {
+    "name": "Baptist Missionary Association Theological Seminary"
+  },
+  "barclaycollege.edu": {
+    "name": "Barclay College"
+  },
+  "bard.edu": {
+    "name": "Bard College"
+  },
+  "simons-rock.edu": {
+    "name": "Bard College at Simon's Rock"
+  },
+  "barnard.edu": {
+    "name": "Barnard College"
+  },
+  "barry.edu": {
+    "name": "Barry University"
+  },
+  "barton.edu": {
+    "name": "Barton College"
+  },
+  "bastyr.edu": {
+    "name": "Bastyr University"
+  },
+  "bates.edu": {
+    "name": "Bates College"
+  },
+  "atlanta.bauder.edu": {
+    "name": "Bauder College"
+  },
+  "baypath.edu": {
+    "name": "Bay Path College"
+  },
+  "baystate.edu": {
+    "name": "Bay State College"
+  },
+  "bcm.edu": {
+    "name": "Baylor College of Medicine"
+  },
+  "baylor.edu": {
+    "name": "Baylor University"
+  },
+  "beaconcollege.edu": {
+    "name": "Beacon College"
+  },
+  "becker.edu": {
+    "name": "Becker College"
+  },
+  "belhaven.edu": {
+    "name": "Belhaven University"
+  },
+  "bellarmine.edu": {
+    "name": "Bellarmine University"
+  },
+  "bellevuecollege.edu": {
+    "name": "Bellevue College"
+  },
+  "bellevue.edu": {
+    "name": "Bellevue University"
+  },
+  "bellincollege.edu": {
+    "name": "Bellin College"
+  },
+  "belmont.edu": {
+    "name": "Belmont University"
+  },
+  "belmontabbeycollege.edu": {
+    "name": "Belmont Abbey College"
+  },
+  "beloit.edu": {
+    "name": "Beloit College"
+  },
+  "bemidjistate.edu": {
+    "name": "Bemidji State University"
+  },
+  "benedict.edu": {
+    "name": "Benedict College"
+  },
+  "benedictine.edu": {
+    "name": "Benedictine College"
+  },
+  "ben.edu": {
+    "name": "Benedictine University"
+  },
+  "bfit.edu": {
+    "name": "Benjamin Franklin Institute of Technology"
+  },
+  "bennett.edu": {
+    "name": "Bennett College for Women"
+  },
+  "bennington.edu": {
+    "name": "Bennington College"
+  },
+  "bentley.edu": {
+    "name": "Bentley University"
+  },
+  "berea.edu": {
+    "name": "Berea College"
+  },
+  "berkeleycollege.edu": {
+    "name": "Berkeley College"
+  },
+  "berklee.edu": {
+    "name": "Berklee College of Music"
+  },
+  "berry.edu": {
+    "name": "Berry College"
+  },
+  "bethanylb.edu": {
+    "name": "Bethany College"
+  },
+  "bethanywv.edu": {
+    "name": "Bethany College"
+  },
+  "blc.edu": {
+    "name": "Bethany Lutheran College"
+  },
+  "bethanyseminary.edu": {
+    "name": "Bethany Theological Seminary"
+  },
+  "bethelcollege.edu": {
+    "name": "Bethel College"
+  },
+  "bethelks.edu": {
+    "name": "Bethel College"
+  },
+  "bethel.edu": {
+    "name": "Bethel University & Seminary"
+  },
+  "bethelu.edu": {
+    "name": "Bethel University"
+  },
+  "buc.edu": {
+    "name": "Bethesda University of California"
+  },
+  "bethune.cookman.edu": {
+    "name": "Bethune-Cookman University"
+  },
+  "beulah.edu": {
+    "name": "Beulah Heights University"
+  },
+  "biblical.edu": {
+    "name": "Biblical Theological Seminary"
+  },
+  "biola.edu": {
+    "name": "Biola University"
+  },
+  "bsc.edu": {
+    "name": "Birmingham-Southern College"
+  },
+  "bismarckstate.edu": {
+    "name": "Bismark State College"
+  },
+  "bhsu.edu": {
+    "name": "Black Hills State University"
+  },
+  "blackburn.edu": {
+    "name": "Blackburn College"
+  },
+  "brcn.edu": {
+    "name": "Blessing-Rieman College of Nursing"
+  },
+  "bloomfield.edu": {
+    "name": "Bloomfield College"
+  },
+  "bloomu.edu": {
+    "name": "Bloomsburg University of Pennsylvania"
+  },
+  "bmc.edu": {
+    "name": "Blue Mountain College"
+  },
+  "bluefield.edu": {
+    "name": "Bluefield College"
+  },
+  "bluefieldstate.edu": {
+    "name": "Bluefield State College"
+  },
+  "bluffton.edu": {
+    "name": "Bluffton University"
+  },
+  "boisestate.edu": {
+    "name": "Boise State University"
+  },
+  "boricuacollege.edu": {
+    "name": "Boricua College"
+  },
+  "the-bac.edu": {
+    "name": "Boston Architectural College"
+  },
+  "bc.edu": {
+    "name": "Boston College"
+  },
+  "bostonconservatory.edu": {
+    "name": "Boston Conservatory"
+  },
+  "bgsp.edu": {
+    "name": "Boston Graduate School of Psychoanalysis"
+  },
+  "bu.edu": {
+    "name": "Boston University"
+  },
+  "bowdoin.edu": {
+    "name": "Bowdoin College"
+  },
+  "bowiestate.edu": {
+    "name": "Bowie State University"
+  },
+  "bgsu.edu": {
+    "name": "Bowling Green State University"
+  },
+  "bradley.edu": {
+    "name": "Bradley University"
+  },
+  "brandeis.edu": {
+    "name": "Brandeis University"
+  },
+  "brandman.edu": {
+    "name": "Brandman University"
+  },
+  "brenau.edu": {
+    "name": "Brenau University"
+  },
+  "brescia.edu": {
+    "name": "Brescia University "
+  },
+  "brevard.edu": {
+    "name": "Brevard College"
+  },
+  "bpc.edu": {
+    "name": "Brewton-Parker College"
+  },
+  "briarcliff.edu": {
+    "name": "Briar Cliff University"
+  },
+  "briarcliffe.edu": {
+    "name": "Briarcliffe College"
+  },
+  "bridgewater.edu": {
+    "name": "Bridgewater College"
+  },
+  "bridgew.edu": {
+    "name": "Bridgewater State University"
+  },
+  "byu.edu": {
+    "name": "Brigham Young University"
+  },
+  "byuh.edu": {
+    "name": "Brigham Young University–Hawaii"
+  },
+  "byui.edu": {
+    "name": "Brigham Young University–Idaho"
+  },
+  "brite.edu": {
+    "name": "Brite Divinity School"
+  },
+  "broward.edu": {
+    "name": "Broward College"
+  },
+  "brown.edu": {
+    "name": "Brown University"
+  },
+  "bryan.edu": {
+    "name": "Bryan College"
+  },
+  "bryanhealth.comCollegeofHealthSciences": {
+    "name": "Bryan College of Health Sciences"
+  },
+  "bryant.edu": {
+    "name": "Bryant University"
+  },
+  "brynathyn.edu": {
+    "name": "Bryn Athyn College of the New Church"
+  },
+  "brynmawr.edu": {
+    "name": "Bryn Mawr College"
+  },
+  "bucknell.edu": {
+    "name": "Bucknell University"
+  },
+  "bvu.edu": {
+    "name": "Buena Vista University"
+  },
+  "burlington.edu": {
+    "name": "Burlington College"
+  },
+  "butler.edu": {
+    "name": "Butler University"
+  },
+  "cabarruscollege.edu": {
+    "name": "Cabarrus College of Health Sciences"
+  },
+  "cabrini.edu": {
+    "name": "Cabrini College"
+  },
+  "cairn.edu": {
+    "name": "Cairn University"
+  },
+  "caldwell.edu": {
+    "name": "Caldwell College"
+  },
+  "calbaptist.edu": {
+    "name": "California Baptist University"
+  },
+  "cca.edu": {
+    "name": "California College of the Arts"
+  },
+  "calarts.edu": {
+    "name": "California Institute of the Arts"
+  },
+  "ciis.edu": {
+    "name": "California Institute of Integral Studies"
+  },
+  "caltech.edu": {
+    "name": "California Institute of Technology"
+  },
+  "callutheran.edu": {
+    "name": "California Lutheran University"
+  },
+  "csum.edu": {
+    "name": "California Maritime Academy"
+  },
+  "calpoly.edu": {
+    "name": "California Polytechnic State University, San Luis Obispo"
+  },
+  "csupomona.edu": {
+    "name": "California State Polytechnic University, Pomona"
+  },
+  "csub.edu": {
+    "name": "California State University–Bakersfield"
+  },
+  "csuci.edu": {
+    "name": "California State University–Channel Islands"
+  },
+  "csuchico.edu": {
+    "name": "California State University–Chico"
+  },
+  "csudh.edu": {
+    "name": "California State University–Dominguez Hills"
+  },
+  "csueastbay.edu": {
+    "name": "California State University–East Bay"
+  },
+  "fresnostate.edu": {
+    "name": "California State University–Fresno"
+  },
+  "fullerton.edu": {
+    "name": "California State University–Fullerton"
+  },
+  "csulb.edu": {
+    "name": "California State University–Long Beach"
+  },
+  "calstatela.edu": {
+    "name": "California State University–Los Angeles"
+  },
+  "csumb.edu": {
+    "name": "California State University–Monterey Bay"
+  },
+  "csun.edu": {
+    "name": "California State University–Northridge"
+  },
+  "csus.edu": {
+    "name": "California State University–Sacramento"
+  },
+  "csusb.edu": {
+    "name": "California State University–San Bernardino"
+  },
+  "csusm.edu": {
+    "name": "California State University–San Marcos"
+  },
+  "csustan.edu": {
+    "name": "California State University–Stanislaus"
+  },
+  "calstate.edu": {
+    "name": "California State University System"
+  },
+  "calu.edu": {
+    "name": "California University of Pennsylvania"
+  },
+  "ccsj.edu": {
+    "name": "Calumet College of Saint Joseph"
+  },
+  "cbs.edu": {
+    "name": "Calvary Baptist Seminary"
+  },
+  "calvary.edu": {
+    "name": "Calvary Bible College & Theological Seminary"
+  },
+  "calvin.edu": {
+    "name": "Calvin College"
+  },
+  "cambridgecollege.edu": {
+    "name": "Cambridge College "
+  },
+  "cameron.edu": {
+    "name": "Cameron University"
+  },
+  "campbell.edu": {
+    "name": "Campbell University"
+  },
+  "campbellsville.edu": {
+    "name": "Campbellsville University"
+  },
+  "canisius.edu": {
+    "name": "Canisius College"
+  },
+  "capella.edu": {
+    "name": "Capella University"
+  },
+  "capital.edu": {
+    "name": "Capital University"
+  },
+  "capitol-college.edu": {
+    "name": "Capitol College"
+  },
+  "stritch.edu": {
+    "name": "Cardinal Stritch University"
+  },
+  "caribbean.edu": {
+    "name": "Caribbean University"
+  },
+  "carleton.edu": {
+    "name": "Carleton College"
+  },
+  "albizu.edu": {
+    "name": "Carlos Albizu University"
+  },
+  "mia.albizu.edu": {
+    "name": "Carlos Albizu University–Miami Campus"
+  },
+  "carlow.edu": {
+    "name": "Carlow University"
+  },
+  "cmu.edu": {
+    "name": "Carnegie Mellon University"
+  },
+  "carroll.edu": {
+    "name": "Carroll College"
+  },
+  "carrollu.edu": {
+    "name": "Carroll University"
+  },
+  "cn.edu": {
+    "name": "Carson-Newman College"
+  },
+  "carthage.edu": {
+    "name": "Carthage College"
+  },
+  "case.edu": {
+    "name": "Case Western Reserve University"
+  },
+  "castleton.edu": {
+    "name": "Castleton State College"
+  },
+  "catawba.edu": {
+    "name": "Catawba College"
+  },
+  "ctu.edu": {
+    "name": "Catholic Theological Union"
+  },
+  "cua.edu": {
+    "name": "The Catholic University of America"
+  },
+  "cazenovia.edu": {
+    "name": "Cazenovia College"
+  },
+  "cedarcrest.edu": {
+    "name": "Cedar Crest College"
+  },
+  "cedarville.edu": {
+    "name": "Cedarville University"
+  },
+  "centenarycollege.edu": {
+    "name": "Centenary College"
+  },
+  "centenary.edu": {
+    "name": "Centenary College of Louisiana"
+  },
+  "cbc.edu": {
+    "name": "Central Baptist College"
+  },
+  "cbts.edu": {
+    "name": "Central Baptist Theological Seminary"
+  },
+  "centralchristian.edu": {
+    "name": "Central Christian College of Kansas"
+  },
+  "cccb.edu": {
+    "name": "Central Christian College of the Bible"
+  },
+  "central.edu": {
+    "name": "Central College"
+  },
+  "ccsu.edu": {
+    "name": "Central Connecticut State University"
+  },
+  "centralmethodist.edu": {
+    "name": "Central Methodist University"
+  },
+  "cmich.edu": {
+    "name": "Central Michigan University"
+  },
+  "centralpenn.edu": {
+    "name": "Central Penn College"
+  },
+  "centralstate.edu": {
+    "name": "Central State University"
+  },
+  "cwu.edu": {
+    "name": "Central Washington University"
+  },
+  "centre.edu": {
+    "name": "Centre College"
+  },
+  "ceaprc.edu": {
+    "name": "Centro de Estudios Avanzados de Puerto Rico y el Caribe"
+  },
+  "csc.edu": {
+    "name": "Chadron State College"
+  },
+  "chamberlain.edu": {
+    "name": "Chamberlain College of Nursing"
+  },
+  "chaminade.edu": {
+    "name": "Chaminade University"
+  },
+  "champlain.edu": {
+    "name": "Champlain College"
+  },
+  "chancelloru.edu": {
+    "name": "Chancellor University"
+  },
+  "chapman.edu": {
+    "name": "Chapman University"
+  },
+  "cdrewu.edu": {
+    "name": "Charles R. Drew University of Medicine & Science"
+  },
+  "csuniv.edu": {
+    "name": "Charleston Southern University"
+  },
+  "charteroak.edu": {
+    "name": "Charter Oak State College"
+  },
+  "chatham.edu": {
+    "name": "Chatham College"
+  },
+  "chestercollege.edu": {
+    "name": "Chester College of New England"
+  },
+  "chc.edu": {
+    "name": "Chestnut Hill College"
+  },
+  "cheyney.edu": {
+    "name": "Cheyney University"
+  },
+  "thechicagoschool.edu": {
+    "name": "The Chicago School of Professional Psychology"
+  },
+  "csu.edu": {
+    "name": "Chicago State University"
+  },
+  "ctschicago.edu": {
+    "name": "Chicago Theological Seminary"
+  },
+  "chipola.edu": {
+    "name": "Chipola College"
+  },
+  "chowan.edu": {
+    "name": "Chowan College"
+  },
+  "cks.edu": {
+    "name": "Christ the King Seminary"
+  },
+  "christendom.edu": {
+    "name": "Christendom College"
+  },
+  "cbu.edu": {
+    "name": "Christian Brothers University"
+  },
+  "cts.edu": {
+    "name": "Christian Theological Seminary"
+  },
+  "cnu.edu": {
+    "name": "Christopher Newport University"
+  },
+  "cdsp.edu": {
+    "name": "Church Divinity School of the Pacific"
+  },
+  "ccms.edu": {
+    "name": "Cincinnati College of Mortuary Science"
+  },
+  "citadel.edu": {
+    "name": "The Citadel"
+  },
+  "cityu.edu": {
+    "name": "City University of Seattle"
+  },
+  "baruch.cuny.edu": {
+    "name": "Baruch College"
+  },
+  "brooklyn.cuny.edu": {
+    "name": "Brooklyn College"
+  },
+  "ccny.cuny.edu": {
+    "name": "City College"
+  },
+  "csi.cuny.edu": {
+    "name": "College of Staten Island"
+  },
+  "gc.cuny.edu": {
+    "name": "Graduate School & University Center"
+  },
+  "hunter.cuny.edu": {
+    "name": "Hunter College"
+  },
+  "jjay.cuny.edu": {
+    "name": "John Jay College of Criminal Justice"
+  },
+  "lehman.cuny.edu": {
+    "name": "Lehman College"
+  },
+  "mec.cuny.edu": {
+    "name": "Medgar Evers College"
+  },
+  "citytech.cuny.edu": {
+    "name": "New York City College of Technology"
+  },
+  "qc.cuny.edu": {
+    "name": "Queens College"
+  },
+  "york.cuny.edu": {
+    "name": "York College"
+  },
+  "claflin.edu": {
+    "name": "Claflin University"
+  },
+  "claremont.edu": {
+    "name": "Claremont Consortium of Colleges"
+  },
+  "cgu.edu": {
+    "name": "Claremont Graduate University"
+  },
+  "claremontmckenna.edu": {
+    "name": "Claremont McKenna College"
+  },
+  "hmc.edu": {
+    "name": "Harvey Mudd College"
+  },
+  "kgi.edu": {
+    "name": "Keck Graduate Institute of Applied Life Sciences"
+  },
+  "pitzer.edu": {
+    "name": "Pitzer College"
+  },
+  "pomona.edu": {
+    "name": "Pomona College"
+  },
+  "scrippscollege.edu": {
+    "name": "Scripps College"
+  },
+  "cst.edu": {
+    "name": "Claremont School of Theology"
+  },
+  "clarion.edu": {
+    "name": "Clarion University of Pennsylvania"
+  },
+  "clarku.edu": {
+    "name": "Clark University"
+  },
+  "cau.edu": {
+    "name": "Clark Atlanta University"
+  },
+  "clarke.edu": {
+    "name": "Clarke University"
+  },
+  "clarksoncollege.edu": {
+    "name": "Clarkson College"
+  },
+  "clarkson.edu": {
+    "name": "Clarkson University"
+  },
+  "clayton.edu": {
+    "name": "Clayton State University"
+  },
+  "ccbbc.edu": {
+    "name": "Clear Creek Baptist Bible College"
+  },
+  "clearwater.edu": {
+    "name": "Clearwater Christian College"
+  },
+  "cleary.edu": {
+    "name": "Cleary University"
+  },
+  "clemson.edu": {
+    "name": "Clemson University"
+  },
+  "cleveland.edu": {
+    "name": "Cleveland Chiropractic College"
+  },
+  "cia.edu": {
+    "name": "Cleveland Institute of Art"
+  },
+  "cim.edu": {
+    "name": "Cleveland Institute of Music"
+  },
+  "csuohio.edu": {
+    "name": "Cleveland State University"
+  },
+  "coastal.edu": {
+    "name": "Coastal Carolina University"
+  },
+  "coe.edu": {
+    "name": "Coe College"
+  },
+  "cogswell.edu": {
+    "name": "Cogswell Polytechnical College"
+  },
+  "coker.edu": {
+    "name": "Coker College"
+  },
+  "colby.edu": {
+    "name": "Colby College"
+  },
+  "colby-sawyer.edu": {
+    "name": "Colby-Sawyer College"
+  },
+  "cunisanjuan.edu": {
+    "name": "Colegio Universitario de San Juan"
+  },
+  "colgate.edu": {
+    "name": "Colgate University"
+  },
+  "collegeforcreativestudies.edu": {
+    "name": "College for Creative Studies"
+  },
+  "cffp.edu": {
+    "name": "College for Financial Planning"
+  },
+  "coa.edu": {
+    "name": "College of the Atlantic"
+  },
+  "cf.edu": {
+    "name": "College of Central Florida"
+  },
+  "cofc.edu": {
+    "name": "College of Charleston"
+  },
+  "ccga.edu": {
+    "name": "College of Coastal Georgia"
+  },
+  "holycross.edu": {
+    "name": "College of the Holy Cross"
+  },
+  "collegeofidaho.edu": {
+    "name": "The College of Idaho"
+  },
+  "menominee.edu": {
+    "name": "College of the Menominee Nation"
+  },
+  "msj.edu": {
+    "name": "College of Mount Saint Joseph"
+  },
+  "mountsaintvincent.edu": {
+    "name": "College of Mount Saint Vincent"
+  },
+  "tcnj.edu": {
+    "name": "The College of New Jersey"
+  },
+  "cnr.edu": {
+    "name": "College of New Rochelle"
+  },
+  "ndm.edu": {
+    "name": "College of Notre Dame of Maryland"
+  },
+  "cofo.edu": {
+    "name": "College of the Ozarks"
+  },
+  "cse.edu": {
+    "name": "College of Saint Elizabeth"
+  },
+  "strose.edu": {
+    "name": "College of Saint Rose"
+  },
+  "csj.edu": {
+    "name": "College of Saint Joseph"
+  },
+  "csm.edu": {
+    "name": "College of Saint Mary"
+  },
+  "css.edu": {
+    "name": "College of Saint Scholastica"
+  },
+  "fishermore.edu": {
+    "name": "College of Saints John Fisher & Thomas More"
+  },
+  "csn.edu": {
+    "name": "College of Southern Nevada"
+  },
+  "cva.edu": {
+    "name": "College of Visual Arts "
+  },
+  "wm.edu": {
+    "name": "College of William and Mary"
+  },
+  "wooster.edu": {
+    "name": "College of Wooster"
+  },
+  "ccu.edu": {
+    "name": "Colorado Christian University"
+  },
+  "coloradocollege.edu": {
+    "name": "Colorado College"
+  },
+  "coloradomesa.edu": {
+    "name": "Colorado Mesa University"
+  },
+  "mines.edu": {
+    "name": "Colorado School of Mines"
+  },
+  "colostate.edu": {
+    "name": "Colorado State University"
+  },
+  "colostate-pueblo.edu": {
+    "name": "Colorado State University–Pueblo"
+  },
+  "coloradotech.edu": {
+    "name": "Colorado Technical University"
+  },
+  "columbiaco.edu": {
+    "name": "Columbia Centro Universitario"
+  },
+  "ccis.edu": {
+    "name": "Columbia College"
+  },
+  "columbiasc.edu": {
+    "name": "Columbia College"
+  },
+  "colum.edu": {
+    "name": "Columbia College Chicago"
+  },
+  "ccon.edu": {
+    "name": "Columbia College of Nursing"
+  },
+  "ciu.edu": {
+    "name": "Columbia International University"
+  },
+  "ctsnet.edu": {
+    "name": "Columbia Theological Seminary"
+  },
+  "columbia.edu": {
+    "name": "Columbia University"
+  },
+  "ccad.edu": {
+    "name": "Columbus College of Art & Design"
+  },
+  "columbusstate.edu": {
+    "name": "Columbus State University"
+  },
+  "conception.edu": {
+    "name": "Conception Seminary College"
+  },
+  "concord.edu": {
+    "name": "Concord University"
+  },
+  "ccal.edu": {
+    "name": "Concordia College–Alabama"
+  },
+  "concordia-ny.edu": {
+    "name": "Concordia College–New York"
+  },
+  "concordiacollege.edu": {
+    "name": "Concordia College–Moorhead"
+  },
+  "csl.edu": {
+    "name": "Concordia Seminary–Saint Louis"
+  },
+  "ctsfw.edu": {
+    "name": "Concordia Theological Seminary"
+  },
+  "cuaa.edu": {
+    "name": "Concordia University–Ann Arbor"
+  },
+  "cuchicago.edu": {
+    "name": "Concordia University–Chicago"
+  },
+  "cui.edu": {
+    "name": "Concordia University–Irvine"
+  },
+  "cune.edu": {
+    "name": "Concordia University–Nebraska"
+  },
+  "cu-portland.edu": {
+    "name": "Concordia University–Portland"
+  },
+  "csp.edu": {
+    "name": "Concordia University–Saint Paul"
+  },
+  "concordia.edu": {
+    "name": "Concordia University–Texas"
+  },
+  "cuw.edu": {
+    "name": "Concordia University–Wisconsin"
+  },
+  "camel.conncoll.edu": {
+    "name": "Connecticut College"
+  },
+  "cmpr.edu": {
+    "name": "Conservatorio de Música de Puerto Rico"
+  },
+  "converse.edu": {
+    "name": "Converse College"
+  },
+  "csld.edu": {
+    "name": "Conway School of Landscape Design"
+  },
+  "cooper.edu": {
+    "name": "The Cooper Union for the Advancement of Science & Art"
+  },
+  "coppin.edu": {
+    "name": "Coppin State University"
+  },
+  "corban.edu": {
+    "name": "Corban University"
+  },
+  "corcoran.edu": {
+    "name": "Corcoran College of Art & Design"
+  },
+  "cornellcollege.edu": {
+    "name": "Cornell College"
+  },
+  "cornell.edu": {
+    "name": "Cornell University"
+  },
+  "cornerstone.edu": {
+    "name": "Cornerstone University"
+  },
+  "cornish.edu": {
+    "name": "Cornish College of the Arts"
+  },
+  "covenant.edu": {
+    "name": "Covenant College"
+  },
+  "covenantseminary.edu": {
+    "name": "Covenant Theological Seminary"
+  },
+  "coxcollege.edu": {
+    "name": "Cox College"
+  },
+  "cranbrookart.edu": {
+    "name": "Cranbrook Academy of Art"
+  },
+  "creighton.edu": {
+    "name": "Creighton University"
+  },
+  "criswell.edu": {
+    "name": "Criswell College"
+  },
+  "crossroadscollege.edu": {
+    "name": "Crossroads College"
+  },
+  "crc.edu": {
+    "name": "Crowley's Ridge College"
+  },
+  "crown.edu": {
+    "name": "Crown College"
+  },
+  "ciachef.edu": {
+    "name": "Culinary Institute of America"
+  },
+  "culver.edu": {
+    "name": "Culver-Stockton College"
+  },
+  "cumberland.edu": {
+    "name": "Cumberland University"
+  },
+  "curry.edu": {
+    "name": "Curry College"
+  },
+  "curtis.edu": {
+    "name": "Curtis Institute of Music"
+  },
+  "hamilton.edu": {
+    "name": "Hamilton College"
+  },
+  "hamline.edu": {
+    "name": "Hamline University"
+  },
+  "hsc.edu": {
+    "name": "Hampden-Sydney College"
+  },
+  "hampshire.edu": {
+    "name": "Hampshire College"
+  },
+  "hamptonu.edu": {
+    "name": "Hampton University"
+  },
+  "hlg.edu": {
+    "name": "Hannibal-Lagrange College"
+  },
+  "hanover.edu": {
+    "name": "Hanover College"
+  },
+  "hsutx.edu": {
+    "name": "Hardin-Simmons University"
+  },
+  "harding.edu": {
+    "name": "Harding University"
+  },
+  "harrington.edu": {
+    "name": "Harrington College of Design"
+  },
+  "hssu.edu": {
+    "name": "Harris-Stowe State University"
+  },
+  "harrisburgu.edu": {
+    "name": "Harrisburg University of Science & Technology"
+  },
+  "hartsem.edu": {
+    "name": "Hartford Seminary"
+  },
+  "hartwick.edu": {
+    "name": "Hartwick College"
+  },
+  "harvard.edu": {
+    "name": "Harvard University"
+  },
+  "haskell.edu": {
+    "name": "Haskell Indian Nations University"
+  },
+  "hastings.edu": {
+    "name": "Hastings College"
+  },
+  "haverford.edu": {
+    "name": "Haverford College"
+  },
+  "hpu.edu": {
+    "name": "Hawaii Pacific University"
+  },
+  "hazelden.org": {
+    "name": "Hazelden Graduate School of Addiction Studies"
+  },
+  "hebrewcollege.edu": {
+    "name": "Hebrew College"
+  },
+  "htc.edu": {
+    "name": "Hebrew Theological College"
+  },
+  "huc.edu": {
+    "name": "Hebrew Union College–Jewish Institute of Religion"
+  },
+  "heidelberg.edu": {
+    "name": "Heidelberg College"
+  },
+  "hchc.edu": {
+    "name": "Hellenic College/Holy Cross Greek Orthodox School of Theology"
+  },
+  "hsu.edu": {
+    "name": "Henderson State University"
+  },
+  "hendrix.edu": {
+    "name": "Hendrix College"
+  },
+  "heritage.edu": {
+    "name": "Heritage University"
+  },
+  "herzing.edu": {
+    "name": "Herzing University"
+  },
+  "highpoint.edu": {
+    "name": "High Point University"
+  },
+  "hilbert.edu": {
+    "name": "Hilbert College"
+  },
+  "hillsdale.edu": {
+    "name": "Hillsdale College"
+  },
+  "hiram.edu": {
+    "name": "Hiram College"
+  },
+  "hws.edu": {
+    "name": "Hobart & William Smith Colleges"
+  },
+  "hsbc.edu": {
+    "name": "Hobe Sound Bible College"
+  },
+  "hodges.edu": {
+    "name": "Hodges University"
+  },
+  "hofstra.edu": {
+    "name": "Hofstra University"
+  },
+  "hollins.edu": {
+    "name": "Hollins University"
+  },
+  "holyapostles.edu": {
+    "name": "Holy Apostles College & Seminary"
+  },
+  "hcc-nd.edu": {
+    "name": "Holy Cross College"
+  },
+  "holyfamily.edu": {
+    "name": "Holy Family University"
+  },
+  "hnu.edu": {
+    "name": "Holy Names University"
+  },
+  "hood.edu": {
+    "name": "Hood College"
+  },
+  "hope.edu": {
+    "name": "Hope College"
+  },
+  "hiu.edu": {
+    "name": "Hope International University"
+  },
+  "houghton.edu": {
+    "name": "Houghton College"
+  },
+  "hbu.edu": {
+    "name": "Houston Baptist University"
+  },
+  "hputx.edu": {
+    "name": "Howard Payne University"
+  },
+  "howard.edu": {
+    "name": "Howard University"
+  },
+  "hult.edu": {
+    "name": "Hult International Business School"
+  },
+  "humboldt.edu": {
+    "name": "Humboldt State University"
+  },
+  "humphreys.edu": {
+    "name": "Humphreys College"
+  },
+  "huntingdon.edu": {
+    "name": "Huntingdon College"
+  },
+  "huntington.edu": {
+    "name": "Huntington University"
+  },
+  "husson.edu": {
+    "name": "Husson University"
+  },
+  "htu.edu": {
+    "name": "Huston-Tillotson University"
+  },
+  "kzoo.edu": {
+    "name": "Kalamazoo College"
+  },
+  "kcai.edu": {
+    "name": "Kansas City Art Institute"
+  },
+  "kcumb.edu": {
+    "name": "Kansas City University of Medicine & Biosciences"
+  },
+  "k-state.edu": {
+    "name": "Kansas State University"
+  },
+  "salina.ksu.edu": {
+    "name": "Kansas State University–Salina"
+  },
+  "kwu.edu": {
+    "name": "Kansas Wesleyan University"
+  },
+  "kaplanuniversity.edu": {
+    "name": "Kaplan University"
+  },
+  "kean.edu": {
+    "name": "Kean University"
+  },
+  "keene.edu": {
+    "name": "Keene State College"
+  },
+  "keiseruniversity.edu": {
+    "name": "Keiser University"
+  },
+  "kendall.edu": {
+    "name": "Kendall College"
+  },
+  "kcad.edu": {
+    "name": "Kendall College of Art & Design of Ferris State University"
+  },
+  "kennesaw.edu": {
+    "name": "Kennesaw State University"
+  },
+  "kenrick.edu": {
+    "name": "Kenrick-Glennon Seminary"
+  },
+  "kent.edu": {
+    "name": "Kent State University"
+  },
+  "ashtabula.kent.edu": {
+    "name": "Kent State University–Ashtabula Campus"
+  },
+  "kent.educpm/": {
+    "name": "Kent State University–College of Podiatric Medicine"
+  },
+  "columbiana.kent.edu": {
+    "name": "Kent State University–Columbiana County"
+  },
+  "geauga.kent.edu": {
+    "name": "Kent State University–Geauga"
+  },
+  "stark.kent.edu": {
+    "name": "Kent State University–Stark"
+  },
+  "trumbull.kent.edu": {
+    "name": "Kent State University–Trumbull Campus"
+  },
+  "tusc.kent.edu": {
+    "name": "Kent State University–Tuscarawas"
+  },
+  "kcu.edu": {
+    "name": "Kentucky Christian University"
+  },
+  "kmbc.edu": {
+    "name": "Kentucky Mountain Bible College"
+  },
+  "kysu.edu": {
+    "name": "Kentucky State University"
+  },
+  "kwc.edu": {
+    "name": "Kentucky Wesleyan College"
+  },
+  "kenyon.edu": {
+    "name": "Kenyon College"
+  },
+  "kc.edu": {
+    "name": "Kettering College"
+  },
+  "kettering.edu": {
+    "name": "Kettering University"
+  },
+  "keuka.edu": {
+    "name": "Keuka College"
+  },
+  "keystone.edu": {
+    "name": "Keystone College"
+  },
+  "king.edu": {
+    "name": "King College"
+  },
+  "kings.edu": {
+    "name": "King's College"
+  },
+  "tkc.edu": {
+    "name": "The King's College"
+  },
+  "ksi.edu": {
+    "name": "Knowledge Systems Institute"
+  },
+  "knox.edu": {
+    "name": "Knox College"
+  },
+  "kutztown.edu": {
+    "name": "Kutztown University of Pennsylvania"
+  },
+  "kuyper.edu": {
+    "name": "Kuyper College"
+  },
+  "macalester.edu": {
+    "name": "Macalester College"
+  },
+  "mac.edu": {
+    "name": "MacMurray College"
+  },
+  "maconstate.edu": {
+    "name": "Macon State College"
+  },
+  "madonna.edu": {
+    "name": "Madonna University"
+  },
+  "mum.edu": {
+    "name": "Maharishi University of Management"
+  },
+  "meca.edu": {
+    "name": "Maine College of Art"
+  },
+  "mainemaritime.edu": {
+    "name": "Maine Maritime Academy"
+  },
+  "malone.edu": {
+    "name": "Malone University"
+  },
+  "manchester.edu": {
+    "name": "Manchester University"
+  },
+  "mccks.edu": {
+    "name": "Manhattan Christian College"
+  },
+  "manhattan.edu": {
+    "name": "Manhattan College"
+  },
+  "msmnyc.edu": {
+    "name": "Manhattan School of Music"
+  },
+  "mville.edu": {
+    "name": "Manhattanville  College"
+  },
+  "mansfield.edu": {
+    "name": "Mansfield University of Pennsylvania"
+  },
+  "mbbc.edu": {
+    "name": "Maranatha Baptist Bible College"
+  },
+  "marian.edu": {
+    "name": "Marian University"
+  },
+  "marianuniversity.edu": {
+    "name": "Marian University"
+  },
+  "marietta.edu": {
+    "name": "Marietta College"
+  },
+  "mcu.usmc.mil": {
+    "name": "Marine Corps University"
+  },
+  "marist.edu": {
+    "name": "Marist College"
+  },
+  "marlboro.edu": {
+    "name": "Marlboro College"
+  },
+  "mu.edu": {
+    "name": "Marquette University"
+  },
+  "mhc.edu": {
+    "name": "Mars Hill College"
+  },
+  "marshall.edu": {
+    "name": "Marshall University"
+  },
+  "mlc-wels.edu": {
+    "name": "Martin Luther College"
+  },
+  "martinmethodist.edu": {
+    "name": "Martin Methodist College"
+  },
+  "martin.edu": {
+    "name": "Martin University"
+  },
+  "mbc.edu": {
+    "name": "Mary Baldwin College"
+  },
+  "marygrove.edu": {
+    "name": "Marygrove College"
+  },
+  "mica.edu": {
+    "name": "Maryland institute College of Art"
+  },
+  "marylhurst.edu": {
+    "name": "Marylhurst University"
+  },
+  "marymountcalifornia.edu": {
+    "name": "Marymount California University"
+  },
+  "marymount.mmm.edu": {
+    "name": "Marymount Manhattan College"
+  },
+  "marymount.edu": {
+    "name": "Marymount University"
+  },
+  "maryvillecollege.edu": {
+    "name": "Maryville College"
+  },
+  "maryville.edu": {
+    "name": "Maryville University of Saint Louis"
+  },
+  "marywood.edu": {
+    "name": "Marywood University"
+  },
+  "massart.edu": {
+    "name": "Massachusetts College of Art & Design"
+  },
+  "mcla.edu": {
+    "name": "Massachusetts College of Liberal Arts "
+  },
+  "mcphs.edu": {
+    "name": "Massachusetts College of Pharmacy & Health Sciences"
+  },
+  "web.mit.edu": {
+    "name": "Massachusetts Institute of Technology"
+  },
+  "maritime.edu": {
+    "name": "Massachusetts Maritime Academy"
+  },
+  "mslaw.edu": {
+    "name": "Massachusetts School of Law"
+  },
+  "mspp.edu": {
+    "name": "Massachusetts School of Professional Psychology"
+  },
+  "masters.edu": {
+    "name": "The Master's College"
+  },
+  "tms.edu": {
+    "name": "The Master's Seminary"
+  },
+  "maui.hawaii.edu": {
+    "name": "Maui College"
+  },
+  "mayo.edueducation/": {
+    "name": "Mayo Clinic College of Medicine"
+  },
+  "mayo.edumgs/": {
+    "name": "Mayo Clinic College of Medicine–Graduate School"
+  },
+  "mayo.edumms/": {
+    "name": "Mayo Clinic College of Medicine–Medical School"
+  },
+  "mayo.edumshs/": {
+    "name": "Mayo Clinic College of Medicine–School of Health Sciences"
+  },
+  "mayvillestate.edu": {
+    "name": "Mayville State University"
+  },
+  "mccormick.edu": {
+    "name": "McCormick Theological Seminary"
+  },
+  "mcdaniel.edu": {
+    "name": "McDaniel College"
+  },
+  "mckendree.edu": {
+    "name": "McKendree University"
+  },
+  "mcm.edu": {
+    "name": "McMurry University"
+  },
+  "mcneese.edu": {
+    "name": "McNeese State University"
+  },
+  "mcpherson.edu": {
+    "name": "McPherson College"
+  },
+  "medaille.edu": {
+    "name": "Medaille College"
+  },
+  "mcw.edu": {
+    "name": "Medical College of Wisconsin"
+  },
+  "musc.edu": {
+    "name": "Medical University of South Carolina"
+  },
+  "mmc.edu": {
+    "name": "Meharry Medical College"
+  },
+  "mca.edu": {
+    "name": "Memphis College of Art"
+  },
+  "memphisseminary.edu": {
+    "name": "Memphis Theological Seminary"
+  },
+  "menlo.edu": {
+    "name": "Menlo College"
+  },
+  "mercer.edu": {
+    "name": "Mercer University"
+  },
+  "mercy.edu": {
+    "name": "Mercy College"
+  },
+  "mchs.edu": {
+    "name": "Mercy College of Health Sciences"
+  },
+  "mercycollege.edu": {
+    "name": "Mercy College of Northwest Ohio"
+  },
+  "mercyhurst.edu": {
+    "name": "Mercyhurst College"
+  },
+  "meredith.edu": {
+    "name": "Meredith College"
+  },
+  "merrimack.edu": {
+    "name": "Merrimack College"
+  },
+  "messiah.edu": {
+    "name": "Messiah College"
+  },
+  "methodistcol.edumethodistcollege/": {
+    "name": "Methodist College"
+  },
+  "mtso.edu": {
+    "name": "Methodist Theological School in Ohio"
+  },
+  "methodist.edu": {
+    "name": "Methodist University"
+  },
+  "mcny.edu": {
+    "name": "Metropolitan College of New York"
+  },
+  "mscd.edu": {
+    "name": "Metropolitan State College of Denver"
+  },
+  "metrostate.edu": {
+    "name": "Metropolitan State University"
+  },
+  "mghihp.edu": {
+    "name": "MGH Institute of Health Professions"
+  },
+  "mdc.edu": {
+    "name": "Miami Dade College"
+  },
+  "artinstitutes.edumiami/": {
+    "name": "Miami International University of Art & Design"
+  },
+  "miamioh.edu": {
+    "name": "Miami University"
+  },
+  "regionals.miamioh.edu": {
+    "name": "Miami University–Regional Campuses"
+  },
+  "mispp.edu": {
+    "name": "Michigan School of Professional Psychology"
+  },
+  "msu.edu": {
+    "name": "Michigan State University"
+  },
+  "mtu.edu": {
+    "name": "Michigan Technological University"
+  },
+  "mabts.edu": {
+    "name": "Mid-America Baptist Theological Seminary"
+  },
+  "macu.edu": {
+    "name": "Mid-America Christian University"
+  },
+  "macuniversity.edu": {
+    "name": "Mid-Atlantic Christian University"
+  },
+  "mnu.edu": {
+    "name": "MidAmerica Nazarene University"
+  },
+  "midcontinent.edu": {
+    "name": "Mid-Continent University"
+  },
+  "mgc.edu": {
+    "name": "Middle Georgia College"
+  },
+  "mtsa.edu": {
+    "name": "Middle Tennessee School of Anesthesia"
+  },
+  "mtsu.edu": {
+    "name": "Middle Tennessee State University"
+  },
+  "middlebury.edu": {
+    "name": "Middlebury College"
+  },
+  "midlandu.edu": {
+    "name": "Midland University"
+  },
+  "midstate.edu": {
+    "name": "Midstate College"
+  },
+  "midway.edu": {
+    "name": "Midway College"
+  },
+  "mbts.edu": {
+    "name": "Midwestern Baptist Theological Seminary"
+  },
+  "midwestern.edu": {
+    "name": "Midwestern University"
+  },
+  "mwsu.edu": {
+    "name": "Midwestern State University"
+  },
+  "miles.edu": {
+    "name": "Miles College"
+  },
+  "millercollege.edu": {
+    "name": "Miller College"
+  },
+  "millersville.edu": {
+    "name": "Millersville University of Pennsylvania"
+  },
+  "milligan.edu": {
+    "name": "Milligan College"
+  },
+  "millikin.edu": {
+    "name": "Millikin University"
+  },
+  "mills.edu": {
+    "name": "Mills College"
+  },
+  "millsaps.edu": {
+    "name": "Millsaps College"
+  },
+  "miad.edu": {
+    "name": "Milwaukee Institute of Art & Design"
+  },
+  "msoe.edu": {
+    "name": "Milwaukee School of Engineering"
+  },
+  "mnsu.edu": {
+    "name": "Minnesota State University–Mankato"
+  },
+  "mnstate.edu": {
+    "name": "Minnesota State University–Moorhead"
+  },
+  "minotstateu.edu": {
+    "name": "Minot State University"
+  },
+  "mcad.edu": {
+    "name": "Minneapolis College of Art & Design"
+  },
+  "misericordia.edu": {
+    "name": "Misericordia University"
+  },
+  "mc.edu": {
+    "name": "Mississippi College"
+  },
+  "msstate.edu": {
+    "name": "Mississippi State University"
+  },
+  "muw.edu": {
+    "name": "Mississippi University for Women"
+  },
+  "mvsu.edu": {
+    "name": "Mississippi Valley State University"
+  },
+  "mobap.edu": {
+    "name": "Missouri Baptist University"
+  },
+  "mssu.edu": {
+    "name": "Missouri Southern State University"
+  },
+  "missouristate.edu": {
+    "name": "Missouri State University"
+  },
+  "mst.edu": {
+    "name": "Missouri University of Science & Technology"
+  },
+  "moval.edu": {
+    "name": "Missouri Valley College"
+  },
+  "missouriwestern.edu": {
+    "name": "Missouri Western State University"
+  },
+  "mitchell.edu": {
+    "name": "Mitchell College"
+  },
+  "molloy.edu": {
+    "name": "Molloy College"
+  },
+  "monmouthcollege.edu": {
+    "name": "Monmouth College"
+  },
+  "monmouth.edu": {
+    "name": "Monmouth University"
+  },
+  "monroecollege.edu": {
+    "name": "Monroe College"
+  },
+  "montana.edu": {
+    "name": "Montana State University"
+  },
+  "msubillings.edu": {
+    "name": "Montana State University–Billings"
+  },
+  "msun.edu": {
+    "name": "Montana State University–Northern"
+  },
+  "mtech.edu": {
+    "name": "Montana Tech of The University of Montana"
+  },
+  "montclair.edu": {
+    "name": "Montclair State University"
+  },
+  "montreat.edu": {
+    "name": "Montreat College"
+  },
+  "montserrat.edu": {
+    "name": "Montserrat College of Art"
+  },
+  "moody.edu": {
+    "name": "Moody Bible Institute"
+  },
+  "moore.edu": {
+    "name": "Moore College of Art & Design"
+  },
+  "moravian.edu": {
+    "name": "Moravian College"
+  },
+  "moreheadstate.edu": {
+    "name": "Morehead State University"
+  },
+  "morehouse.edu": {
+    "name": "Morehouse College"
+  },
+  "msm.edu": {
+    "name": "Morehouse School of Medicine"
+  },
+  "morgan.edu": {
+    "name": "Morgan State University"
+  },
+  "morningside.edu": {
+    "name": "Morningside College"
+  },
+  "morris.edu": {
+    "name": "Morris College"
+  },
+  "mtaloy.edu": {
+    "name": "Mount Aloysius College"
+  },
+  "mountangelabbey.orgseminary/": {
+    "name": "Mount Angel Seminary"
+  },
+  "mccn.edu": {
+    "name": "Mount Carmel College of Nursing"
+  },
+  "mtholyoke.edu": {
+    "name": "Mount Holyoke College"
+  },
+  "mountida.edu": {
+    "name": "Mount Ida College"
+  },
+  "mtmc.edu": {
+    "name": "Mount Marty College"
+  },
+  "mtmary.edu": {
+    "name": "Mount Mary College"
+  },
+  "mtmercy.edu": {
+    "name": "Mount Mercy University"
+  },
+  "moc.edu": {
+    "name": "Mount Olive College"
+  },
+  "msmc.edu": {
+    "name": "Mount Saint Mary College"
+  },
+  "msmc.la.edu": {
+    "name": "Mount Saint Mary's College"
+  },
+  "msmary.edu": {
+    "name": "Mount Saint Mary's University"
+  },
+  "mvnu.edu": {
+    "name": "Mount Vernon Nazarene University"
+  },
+  "mountwashington.edu": {
+    "name": "Mount Washington College"
+  },
+  "mountainstate.edu": {
+    "name": "Mountain State University"
+  },
+  "muhlenberg.edu": {
+    "name": "Muhlenberg College"
+  },
+  "multnomah.edu": {
+    "name": "Multnomah University"
+  },
+  "murraystate.edu": {
+    "name": "Murray State University"
+  },
+  "muskingum.edu": {
+    "name": "Muskingum University"
+  },
+  "oakhills.edu": {
+    "name": "Oak Hills Christian College"
+  },
+  "oak.edu": {
+    "name": "Oakland City University"
+  },
+  "oakland.edu": {
+    "name": "Oakland University"
+  },
+  "oakwood.edu": {
+    "name": "Oakwood University"
+  },
+  "oberlin.edu": {
+    "name": "Oberlin College"
+  },
+  "ost.edu": {
+    "name": "Oblate School of Theology"
+  },
+  "oxy.edu": {
+    "name": "Occidental College"
+  },
+  "olc.edu": {
+    "name": "Oglala Lakota College"
+  },
+  "oglethorpe.edu": {
+    "name": "Oglethorpe University"
+  },
+  "ohiochristian.edu": {
+    "name": "Ohio Christian University"
+  },
+  "ohiodominican.edu": {
+    "name": "Ohio Dominican University"
+  },
+  "onu.edu": {
+    "name": "Ohio Northern University"
+  },
+  "osu.edu": {
+    "name": "Ohio State University"
+  },
+  "lima.osu.edu": {
+    "name": "Ohio State University–Lima"
+  },
+  "mansfield.osu.edu": {
+    "name": "Ohio State University–Mansfield"
+  },
+  "osumarion.osu.edu": {
+    "name": "Ohio State University–Marion"
+  },
+  "newark.osu.edu": {
+    "name": "Ohio State University–Newark"
+  },
+  "ohio.edu": {
+    "name": "Ohio University"
+  },
+  "ohio.edueastern/": {
+    "name": "Ohio University–Eastern Campus"
+  },
+  "ohio.edulancaster/": {
+    "name": "Ohio University–Lancaster"
+  },
+  "zanesville.ohiou.edu": {
+    "name": "Ohio University–Zanesville"
+  },
+  "ovu.edu": {
+    "name": "Ohio Valley University"
+  },
+  "owu.edu": {
+    "name": "Ohio Wesleyan University"
+  },
+  "okbu.edu": {
+    "name": "Oklahoma Baptist University"
+  },
+  "oc.edu": {
+    "name": "Oklahoma Christian University"
+  },
+  "okcu.edu": {
+    "name": "Oklahoma City University"
+  },
+  "opsu.edu": {
+    "name": "Oklahoma Panhandle State University"
+  },
+  "okstate.edu": {
+    "name": "Oklahoma State University"
+  },
+  "healthsciences.okstate.edu": {
+    "name": "Oklahoma State University–Center for Health Sciences"
+  },
+  "osuit.edu": {
+    "name": "Oklahoma State University–Institute of Technology"
+  },
+  "osuokc.edu": {
+    "name": "Oklahoma State University–Oklahoma City"
+  },
+  "osu-tulsa.okstate.edu": {
+    "name": "Oklahoma State University–Tulsa"
+  },
+  "okwu.edu": {
+    "name": "Oklahoma Wesleyan University"
+  },
+  "odu.edu": {
+    "name": "Old Dominion University"
+  },
+  "olivetcollege.edu": {
+    "name": "Olivet College"
+  },
+  "olivet.edu": {
+    "name": "Olivet Nazarene University"
+  },
+  "olivetuniversity.edu": {
+    "name": "Olivet University"
+  },
+  "olympic.edu": {
+    "name": "Olympic College"
+  },
+  "oru.edu": {
+    "name": "Oral Roberts University"
+  },
+  "ocac.edu": {
+    "name": "Oregon College of Art & Craft"
+  },
+  "ohsu.edu": {
+    "name": "Oregon Health & Science University"
+  },
+  "oit.edu": {
+    "name": "Oregon Institute of Technology"
+  },
+  "oregonstate.edu": {
+    "name": "Oregon State University"
+  },
+  "otis.edu": {
+    "name": "Otis College of Art & Design"
+  },
+  "ottawa.edu": {
+    "name": "Ottawa University"
+  },
+  "otterbein.edu": {
+    "name": "Otterbein University"
+  },
+  "obu.edu": {
+    "name": "Ouachita Baptist University"
+  },
+  "olhcc.edu": {
+    "name": "Our Lady of Holy Cross College"
+  },
+  "ololcollege.edu": {
+    "name": "Our Lady of the Lake College"
+  },
+  "ollusa.edu": {
+    "name": "Our Lady of the Lake University"
+  },
+  "occ.edu": {
+    "name": "Ozark Christian College"
+  },
+  "queens.edu": {
+    "name": "Queens University of Charlotte"
+  },
+  "quincy.edu": {
+    "name": "Quincy University"
+  },
+  "quinnipiac.edu": {
+    "name": "Quinnipiac University"
+  },
+  "radford.edu": {
+    "name": "Radford University"
+  },
+  "ramapo.edu": {
+    "name": "Ramapo College of New Jersey"
+  },
+  "randolphcollege.edu": {
+    "name": "Randolph College"
+  },
+  "rmc.edu": {
+    "name": "Randolph-Macon College"
+  },
+  "ranken.edu": {
+    "name": "Ranken Technical College"
+  },
+  "rasmussen.edu": {
+    "name": "Rasmussen College"
+  },
+  "rrc.edu": {
+    "name": "Reconstructionist Rabbinical College"
+  },
+  "reed.edu": {
+    "name": "Reed College"
+  },
+  "rts.edu": {
+    "name": "Reformed Theological Seminary"
+  },
+  "regent.edu": {
+    "name": "Regent University"
+  },
+  "regiscollege.edu": {
+    "name": "Regis College"
+  },
+  "regis.edu": {
+    "name": "Regis University"
+  },
+  "reinhardt.edu": {
+    "name": "Reinhardt University"
+  },
+  "rpi.edu": {
+    "name": "Rensselaer Polytechnic Institute"
+  },
+  "researchcollege.edu": {
+    "name": "Research College of Nursing"
+  },
+  "resu.edu": {
+    "name": "Resurrection University"
+  },
+  "ric.edu": {
+    "name": "Rhode Island College"
+  },
+  "risd.edu": {
+    "name": "Rhode Island School of Design"
+  },
+  "rhodes.edu": {
+    "name": "Rhodes College"
+  },
+  "riceinfo.rice.edu": {
+    "name": "Rice University"
+  },
+  "stockton.edu": {
+    "name": "Richard Stockton College of New Jersey"
+  },
+  "richmont.edu": {
+    "name": "Richmont Graduate University"
+  },
+  "rider.edu": {
+    "name": "Rider University"
+  },
+  "ringling.edu": {
+    "name": "Ringling College of Art & Design"
+  },
+  "ripon.edu": {
+    "name": "Ripon College"
+  },
+  "rivier.edu": {
+    "name": "Rivier University"
+  },
+  "roanoke.edu": {
+    "name": "Roanoke College"
+  },
+  "robert-morris.edu": {
+    "name": "Robert Morris University"
+  },
+  "robertmorris.edu": {
+    "name": "Robert Morris University–Illinois"
+  },
+  "roberts.edu": {
+    "name": "Roberts Wesleyan College"
+  },
+  "rc.edu": {
+    "name": "Rochester College"
+  },
+  "rit.edu": {
+    "name": "Rochester Institute of Technology"
+  },
+  "rockford.edu": {
+    "name": "Rockford University"
+  },
+  "rockhurst.edu": {
+    "name": "Rockhurst University"
+  },
+  "rocky.edu": {
+    "name": "Rocky Mountain College"
+  },
+  "rmcad.edu": {
+    "name": "Rocky Mountain College of Art & Design"
+  },
+  "rwu.edu": {
+    "name": "Roger Williams University"
+  },
+  "rsu.edu": {
+    "name": "Rogers State University"
+  },
+  "rollins.edu": {
+    "name": "Rollins College"
+  },
+  "roosevelt.edu": {
+    "name": "Roosevelt University"
+  },
+  "rosalindfranklin.edu": {
+    "name": "Rosalind Franklin University of Medicine & Science"
+  },
+  "rose-hulman.edu": {
+    "name": "Rose-Hulman Institute of Technology"
+  },
+  "roseman.edu": {
+    "name": "Roseman University of Health Sciences"
+  },
+  "rosemont.edu": {
+    "name": "Rosemont College"
+  },
+  "rowan.edu": {
+    "name": "Rowan University"
+  },
+  "rushu.rush.edu": {
+    "name": "Rush University"
+  },
+  "rustcollege.edu": {
+    "name": "Rust College"
+  },
+  "camden.rutgers.edu": {
+    "name": "Rutgers University–Camden"
+  },
+  "nb.rutgers.edu": {
+    "name": "Rutgers University–New Brunswick"
+  },
+  "newark.rutgers.edu": {
+    "name": "Rutgers University–Newark"
+  },
+  "tabor.edu": {
+    "name": "Tabor College"
+  },
+  "tai.edu": {
+    "name": "Tai Sophia Institute"
+  },
+  "talladega.edu": {
+    "name": "Talladega College"
+  },
+  "tarleton.edu": {
+    "name": "Tarleton State University"
+  },
+  "taylor.edu": {
+    "name": "Taylor University"
+  },
+  "tcmi.org": {
+    "name": "TCM International Institute"
+  },
+  "tc.columbia.edu": {
+    "name": "Teachers College, Columbia University"
+  },
+  "temple.edu": {
+    "name": "Temple University"
+  },
+  "tnstate.edu": {
+    "name": "Tennessee State University"
+  },
+  "tntech.edu": {
+    "name": "Tennessee Technological University"
+  },
+  "twcnet.edu": {
+    "name": "Tennessee Wesleyan College"
+  },
+  "tamiu.edu": {
+    "name": "Texas A&M International University"
+  },
+  "tamu.edu": {
+    "name": "Texas A&M University"
+  },
+  "tamuct.edu": {
+    "name": "Texas A&M University–Central Texas"
+  },
+  "tamuc.edu": {
+    "name": "Texas A&M University–Commerce"
+  },
+  "tamucc.edu": {
+    "name": "Texas A&M University–Corpus Christi"
+  },
+  "tamug.edu": {
+    "name": "Texas A&M University–Galveston"
+  },
+  "tamhsc.edu": {
+    "name": "Texas A&M University Health Science Center"
+  },
+  "tamuk.edu": {
+    "name": "Texas A&M University–Kingsville"
+  },
+  "tamusa.tamus.edu": {
+    "name": "Texas A&M University–San Antonio"
+  },
+  "tamut.edu": {
+    "name": "Texas A&M University–Texarkana"
+  },
+  "txchiro.edu": {
+    "name": "Texas Chiropractic College"
+  },
+  "tcu.edu": {
+    "name": "Texas Christian University"
+  },
+  "texascollege.edu": {
+    "name": "Texas College"
+  },
+  "tlu.edu": {
+    "name": "Texas Lutheran University"
+  },
+  "tsu.edu": {
+    "name": "Texas Southern University"
+  },
+  "txstate.edu": {
+    "name": "Texas State University–San Marcos"
+  },
+  "ttu.edu": {
+    "name": "Texas Tech University"
+  },
+  "ttuhsc.edu": {
+    "name": "Texas Tech University Health Sciences Center"
+  },
+  "txwes.edu": {
+    "name": "Texas Wesleyan University"
+  },
+  "twu.edu": {
+    "name": "Texas Woman's University"
+  },
+  "thiel.edu": {
+    "name": "Thiel College"
+  },
+  "thomasaquinas.edu": {
+    "name": "Thomas Aquinas College"
+  },
+  "thomasu.edu": {
+    "name": "Thomas University"
+  },
+  "thomas.edu": {
+    "name": "Thomas College"
+  },
+  "tesc.edu": {
+    "name": "Thomas Edison State College"
+  },
+  "jefferson.edu": {
+    "name": "Thomas Jefferson University"
+  },
+  "cooley.edu": {
+    "name": "Thomas M. Cooley Law School"
+  },
+  "thomasmore.edu": {
+    "name": "Thomas More College"
+  },
+  "thomasmorecollege.edu": {
+    "name": "The Thomas More College of Liberal Arts"
+  },
+  "thunderbird.edu": {
+    "name": "Thunderbird School of Global Management"
+  },
+  "tiffin.edu": {
+    "name": "Tiffin University"
+  },
+  "tfc.edu": {
+    "name": "Toccoa Falls College"
+  },
+  "tougaloo.edu": {
+    "name": "Tougaloo College"
+  },
+  "touro.edu": {
+    "name": "Touro College"
+  },
+  "touro.edulosangeles/": {
+    "name": "Touro College Los Angeles"
+  },
+  "tu.edu": {
+    "name": "Touro University California"
+  },
+  "tun.touro.edu": {
+    "name": "Touro University Nevada"
+  },
+  "tuw.edu": {
+    "name": "Touro University Worldwide"
+  },
+  "towson.edu": {
+    "name": "Towson University"
+  },
+  "ttic.edu": {
+    "name": "Toyota Technological Institute at Chicago"
+  },
+  "transy.edu": {
+    "name": "Transylvania University"
+  },
+  "trevecca.edu": {
+    "name": "Trevecca Nazarene University"
+  },
+  "trident.edu": {
+    "name": "Trident University International"
+  },
+  "trine.edu": {
+    "name": "Trine University"
+  },
+  "trinitybiblecollege.edu": {
+    "name": "Trinity Bible College"
+  },
+  "trnty.edu": {
+    "name": "Trinity Christian College"
+  },
+  "trincoll.edu": {
+    "name": "Trinity College"
+  },
+  "trinitycollegeqc.edu": {
+    "name": "Trinity College of Nursing & Health Sciences"
+  },
+  "tlsohio.edu": {
+    "name": "Trinity Lutheran Seminary"
+  },
+  "trinitydc.edu": {
+    "name": "Trinity University"
+  },
+  "trinitycollege.edu": {
+    "name": "Trinity College of Florida"
+  },
+  "tiu.edu": {
+    "name": "Trinity International University"
+  },
+  "tlc.edu": {
+    "name": "Trinity Lutheran College"
+  },
+  "trinity.edu": {
+    "name": "Trinity University"
+  },
+  "troy.edu": {
+    "name": "Troy University"
+  },
+  "truett.edu": {
+    "name": "Truett-McConnell College"
+  },
+  "truman.edu": {
+    "name": "Truman State University"
+  },
+  "tufts.edu": {
+    "name": "Tufts University"
+  },
+  "tulane.edu": {
+    "name": "Tulane University"
+  },
+  "tm.edu": {
+    "name": "Turtle Mountain Community College"
+  },
+  "tusculum.edu": {
+    "name": "Tusculum College"
+  },
+  "tuskegee.edu": {
+    "name": "Tuskegee University"
+  },
+  "uts.edu": {
+    "name": "Unification Theological Seminary"
+  },
+  "usuhs.mil": {
+    "name": "Uniformed Services University of the Health Sciences"
+  },
+  "unionky.edu": {
+    "name": "Union College"
+  },
+  "ucollege.edu": {
+    "name": "Union College"
+  },
+  "union.edu": {
+    "name": "Union College"
+  },
+  "uniongraduatecollege.edu": {
+    "name": "Union Graduate College"
+  },
+  "myunion.edu": {
+    "name": "Union Institute & University"
+  },
+  "upsem.edu": {
+    "name": "Union Presbyterian Seminary"
+  },
+  "utsnyc.edu": {
+    "name": "Union Theological Seminary"
+  },
+  "uu.edu": {
+    "name": "Union University"
+  },
+  "usafa.edu": {
+    "name": "United States Air Force Academy"
+  },
+  "usacac.army.milcac2/cgsc/": {
+    "name": "United States Army Command & General Staff College"
+  },
+  "carlisle.army.mil": {
+    "name": "United States Army War College"
+  },
+  "uscga.edu": {
+    "name": "United States Coast Guard Academy"
+  },
+  "usmma.edu": {
+    "name": "United States Merchant Marine Academy"
+  },
+  "usma.edu": {
+    "name": "United States Military Academy"
+  },
+  "usna.edu": {
+    "name": "United States Naval Academy"
+  },
+  "usnwc.edu": {
+    "name": "United States Naval War College"
+  },
+  "ussa.edu": {
+    "name": "United States Sports Academy"
+  },
+  "usuniversity.edu": {
+    "name": "United States University"
+  },
+  "united.edu": {
+    "name": "United Theological Seminary"
+  },
+  "unitedseminary.edu": {
+    "name": "United Theological Seminary of the Twin Cities"
+  },
+  "unity.edu": {
+    "name": "Unity College"
+  },
+  "uaa.edu": {
+    "name": "Universidad Adventista de las Antillas"
+  },
+  "ucb.edu.pr": {
+    "name": "Universidad Central de Bayamón"
+  },
+  "uccaribe.edu": {
+    "name": "Universidad Central del Caribe"
+  },
+  "sagrado.edu": {
+    "name": "Universidad del Sagrado Corazón"
+  },
+  "inter.edu": {
+    "name": "Universidad Interamericana de Puerto Rico"
+  },
+  "aguadilla.inter.edu": {
+    "name": "Aguadilla Campus"
+  },
+  "arecibo.inter.edu": {
+    "name": "Arecibo Campus"
+  },
+  "br.inter.edu": {
+    "name": "Barranquitas Campus"
+  },
+  "bayamon.inter.edu": {
+    "name": "Bayamón Campus"
+  },
+  "fajardo.inter.edu": {
+    "name": "Fajardo Campus"
+  },
+  "guayama.inter.edu": {
+    "name": "Guayama Campus"
+  },
+  "metro.inter.edu": {
+    "name": "Metropolitan Campus"
+  },
+  "ponce.inter.edu": {
+    "name": "Ponce Campus"
+  },
+  "sg.inter.edu": {
+    "name": "San Germán Campus"
+  },
+  "derecho.inter.edu": {
+    "name": "School of Law"
+  },
+  "optonet.inter.edu": {
+    "name": "School of Optometry"
+  },
+  "pupr.edu": {
+    "name": "Universidad Politecnica de Puerto Rico"
+  },
+  "usmd.edu": {
+    "name": "University System of Maryland"
+  },
+  "uiu.edu": {
+    "name": "Upper Iowa University"
+  },
+  "urbana.edu": {
+    "name": "Urbana University"
+  },
+  "ursinus.edu": {
+    "name": "Ursinus College"
+  },
+  "ursuline.edu": {
+    "name": "Ursuline College"
+  },
+  "usu.edu": {
+    "name": "Utah State University"
+  },
+  "uvu.edu": {
+    "name": "Utah Valley University"
+  },
+  "utica.edu": {
+    "name": "Utica College"
+  },
+  "uat.edu": {
+    "name": "University of Advancing Technology"
+  },
+  "uakron.edu": {
+    "name": "University of Akron"
+  },
+  "ua.edu": {
+    "name": "University of Alabama"
+  },
+  "uab.edu": {
+    "name": "University of Alabama–Birmingham"
+  },
+  "uah.edu": {
+    "name": "University of Alabama–Huntsville"
+  },
+  "alaska.edu": {
+    "name": "University of Alaska System"
+  },
+  "uaa.alaska.edu": {
+    "name": "Anchorage"
+  },
+  "uaf.edu": {
+    "name": "Fairbanks"
+  },
+  "uas.alaska.edu": {
+    "name": "Southeast"
+  },
+  "arizona.edu": {
+    "name": "University of Arizona"
+  },
+  "uark.edu": {
+    "name": "University of Arkansas"
+  },
+  "uafs.edu": {
+    "name": "University of Arkansas–Fort Smith"
+  },
+  "ualr.edu": {
+    "name": "University of Arkansas–Little Rock"
+  },
+  "uams.edu": {
+    "name": "University of Arkansas for Medical Sciences"
+  },
+  "uamont.edu": {
+    "name": "University of Arkansas–Monticello"
+  },
+  "uapb.edu": {
+    "name": "University of Arkansas–Pine Bluff"
+  },
+  "uasys.edu": {
+    "name": "University of Arkansas System"
+  },
+  "ubalt.edu": {
+    "name": "University of Baltimore"
+  },
+  "bridgeport.edu": {
+    "name": "University of Bridgeport"
+  },
+  "berkeley.edu": {
+    "name": "University of California–Berkeley"
+  },
+  "ucdavis.edu": {
+    "name": "University of California–Davis"
+  },
+  "uchastings.edu": {
+    "name": "University of California Hastings College of the Law"
+  },
+  "uci.edu": {
+    "name": "University of California–Irvine"
+  },
+  "ucla.edu": {
+    "name": "University of California–Los Angeles"
+  },
+  "ucmerced.edu": {
+    "name": "University of California–Merced"
+  },
+  "ucr.edu": {
+    "name": "University of California–Riverside"
+  },
+  "ucsd.edu": {
+    "name": "University of California–San Diego"
+  },
+  "ucsf.edu": {
+    "name": "University of California–San Francisco"
+  },
+  "ucsb.edu": {
+    "name": "University of California–Santa Barbara"
+  },
+  "ucsc.edu": {
+    "name": "University of California–Santa Cruz"
+  },
+  "ucop.edu": {
+    "name": "University of California System"
+  },
+  "uca.edu": {
+    "name": "University of Central Arkansas"
+  },
+  "ucf.edu": {
+    "name": "University of Central Florida"
+  },
+  "ucmo.edu": {
+    "name": "University of Central Missouri"
+  },
+  "uco.edu": {
+    "name": "University of Central Oklahoma"
+  },
+  "ucwv.edu": {
+    "name": "University of Charleston"
+  },
+  "uchicago.edu": {
+    "name": "University of Chicago"
+  },
+  "uc.edu": {
+    "name": "University of Cincinnati"
+  },
+  "ucblueash.edu": {
+    "name": "University of Cincinnati–Blue Ash"
+  },
+  "colorado.edu": {
+    "name": "University of Colorado–Boulder"
+  },
+  "uccs.edu": {
+    "name": "University of Colorado–Colorado Springs"
+  },
+  "ucdenver.edu": {
+    "name": "University of Colorado–Denver"
+  },
+  "cu.edu": {
+    "name": "University of Colorado System"
+  },
+  "uconn.edu": {
+    "name": "University of Connecticut"
+  },
+  "udallas.edu": {
+    "name": "University of Dallas"
+  },
+  "udayton.edu": {
+    "name": "University of Dayton"
+  },
+  "udel.edu": {
+    "name": "University of Delaware"
+  },
+  "du.edu": {
+    "name": "University of Denver"
+  },
+  "udc.edu": {
+    "name": "University of the District of Columbia"
+  },
+  "udmercy.edu": {
+    "name": "University of Detroit Mercy"
+  },
+  "dbq.edu": {
+    "name": "University of Dubuque"
+  },
+  "evansville.edu": {
+    "name": "University of Evansville"
+  },
+  "findlay.edu": {
+    "name": "The University of Findlay"
+  },
+  "ufl.edu": {
+    "name": "University of Florida"
+  },
+  "uga.edu": {
+    "name": "University of Georgia"
+  },
+  "ugf.edu": {
+    "name": "University of Great Falls"
+  },
+  "uog.edu": {
+    "name": "University of Guam"
+  },
+  "hartford.edu": {
+    "name": "University of Hartford"
+  },
+  "uhh.hawaii.edu": {
+    "name": "University of Hawaii–Hilo"
+  },
+  "uhm.hawaii.edu": {
+    "name": "University of Hawaii–Manoa"
+  },
+  "hawaii.edu": {
+    "name": "University of Hawaii System"
+  },
+  "uhwo.hawaii.edu": {
+    "name": "University of Hawaii–West O'ahu"
+  },
+  "uh.edu": {
+    "name": "University of Houston"
+  },
+  "uhcl.edu": {
+    "name": "University of Houston–Clear Lake"
+  },
+  "uhd.edu": {
+    "name": "University of Houston–Downtown"
+  },
+  "uhv.edu": {
+    "name": "University of Houston–Victoria"
+  },
+  "uidaho.edu": {
+    "name": "University of Idaho"
+  },
+  "uic.edu": {
+    "name": "University of Illinois–Chicago"
+  },
+  "uis.edu": {
+    "name": "University of Illinois–Springfield"
+  },
+  "uillinois.edu": {
+    "name": "University of Illinois System"
+  },
+  "illinois.edu": {
+    "name": "University of Illinois–Urbana-Champaign"
+  },
+  "uindy.edu": {
+    "name": "University of Indianapolis"
+  },
+  "uiowa.edu": {
+    "name": "University of Iowa"
+  },
+  "ku.edu": {
+    "name": "University of Kansas"
+  },
+  "kumc.edu": {
+    "name": "University of Kansas Medical Center"
+  },
+  "uky.edu": {
+    "name": "University of Kentucky"
+  },
+  "laverne.edu": {
+    "name": "University of La Verne"
+  },
+  "ulm.edu": {
+    "name": "University of Louisiana–Monroe"
+  },
+  "louisiana.edu": {
+    "name": "University of Louisiana–Lafayette"
+  },
+  "louisville.edu": {
+    "name": "University of Louisville"
+  },
+  "umaine.edu": {
+    "name": "University of Maine"
+  },
+  "uma.edu": {
+    "name": "University of Maine–Augusta"
+  },
+  "umf.maine.edu": {
+    "name": "University of Maine–Farmington"
+  },
+  "umfk.edu": {
+    "name": "University of Maine–Fort Kent"
+  },
+  "machias.edu": {
+    "name": "University of Maine–Machias"
+  },
+  "umpi.edu": {
+    "name": "University of Maine–Presque Isle"
+  },
+  "mainelaw.maine.edu": {
+    "name": "University of Maine School of Law"
+  },
+  "maine.edu": {
+    "name": "University of Maine System"
+  },
+  "umary.edu": {
+    "name": "University of Mary"
+  },
+  "umhb.edu": {
+    "name": "University of Mary Hardin-Baylor"
+  },
+  "umw.edu": {
+    "name": "University of Mary Washington"
+  },
+  "umaryland.edu": {
+    "name": "University of Maryland–Baltimore"
+  },
+  "umbc.edu": {
+    "name": "University of Maryland–Baltimore County"
+  },
+  "umd.edu": {
+    "name": "University of Maryland–College Park"
+  },
+  "umes.edu": {
+    "name": "University of Maryland–Eastern Shore"
+  },
+  "umuc.edu": {
+    "name": "University of Maryland–University College"
+  },
+  "umass.edu": {
+    "name": "University of Massachusetts–Amherst"
+  },
+  "umb.edu": {
+    "name": "University of Massachusetts–Boston"
+  },
+  "umassd.edu": {
+    "name": "University of Massachusetts–Dartmouth"
+  },
+  "uml.edu": {
+    "name": "University of Massachusetts–Lowell"
+  },
+  "umassmed.edu": {
+    "name": "University of Massachusetts Medical School at Worcester"
+  },
+  "massachusetts.edu": {
+    "name": "University of Massachusetts System"
+  },
+  "umdnj.edu": {
+    "name": "University of Medicine & Dentistry of New Jersey"
+  },
+  "memphis.edu": {
+    "name": "University of Memphis"
+  },
+  "miami.edu": {
+    "name": "University of Miami"
+  },
+  "umich.edu": {
+    "name": "University of Michigan"
+  },
+  "umd.umich.edu": {
+    "name": "University of Michigan–Dearborn"
+  },
+  "umflint.edu": {
+    "name": "University of Michigan–Flint"
+  },
+  "crk.umn.edu": {
+    "name": "University of Minnesota–Crookston"
+  },
+  "d.umn.edu": {
+    "name": "University of Minnesota–Duluth"
+  },
+  "morris.umn.edu": {
+    "name": "University of Minnesota–Morris"
+  },
+  "umn.edu": {
+    "name": "University of Minnesota–Twin Cities"
+  },
+  "olemiss.edu": {
+    "name": "University of Mississippi"
+  },
+  "umc.edu": {
+    "name": "University of Mississippi Medical Center"
+  },
+  "missouri.edu": {
+    "name": "University of Missouri"
+  },
+  "umkc.edu": {
+    "name": "University of Missouri–Kansas City"
+  },
+  "umsl.edu": {
+    "name": "University of Missouri–Saint Louis"
+  },
+  "umsystem.edu": {
+    "name": "University of Missouri System"
+  },
+  "umobile.edu": {
+    "name": "University of Mobile"
+  },
+  "umt.edu": {
+    "name": "University of Montana–Missoula"
+  },
+  "umwestern.edu": {
+    "name": "University of Montana–Western"
+  },
+  "montevallo.edu": {
+    "name": "University of Montevallo"
+  },
+  "mountunion.edu": {
+    "name": "University of Mount Union"
+  },
+  "unk.edu": {
+    "name": "University of Nebraska–Kearney"
+  },
+  "unl.edu": {
+    "name": "University of Nebraska–Lincoln"
+  },
+  "unmc.edu": {
+    "name": "University of Nebraska Medical Center"
+  },
+  "unomaha.edu": {
+    "name": "University of Nebraska–Omaha"
+  },
+  "nebraska.edu": {
+    "name": "University of Nebraska System"
+  },
+  "unlv.edu": {
+    "name": "University of Nevada–Las Vegas"
+  },
+  "unr.edu": {
+    "name": "University of Nevada–Reno"
+  },
+  "une.edu": {
+    "name": "University of New England"
+  },
+  "unh.edu": {
+    "name": "University of New Hampshire"
+  },
+  "unhm.unh.edu": {
+    "name": "University of New Hampshire at Manchester"
+  },
+  "law.unh.edu": {
+    "name": "University of New Hampshire School of Law"
+  },
+  "newhaven.edu": {
+    "name": "University of New Haven"
+  },
+  "unm.edu": {
+    "name": "University of New Mexico"
+  },
+  "uno.edu": {
+    "name": "University of New Orleans"
+  },
+  "una.edu": {
+    "name": "University of North Alabama"
+  },
+  "unca.edu": {
+    "name": "University of North Carolina–Asheville"
+  },
+  "unc.edu": {
+    "name": "University of North Carolina–Chapel Hill"
+  },
+  "uncc.edu": {
+    "name": "University of North Carolina–Charlotte"
+  },
+  "uncg.edu": {
+    "name": "University of North Carolina–Greensboro"
+  },
+  "uncp.edu": {
+    "name": "University of North Carolina–Pembroke"
+  },
+  "uncsa.edu": {
+    "name": "University of North Carolina–School of the Arts"
+  },
+  "uncw.edu": {
+    "name": "University of North Carolina–Wilmington"
+  },
+  "und.edu": {
+    "name": "University of North Dakota"
+  },
+  "unf.edu": {
+    "name": "University of North Florida"
+  },
+  "ung.edu": {
+    "name": "University of North Georgia"
+  },
+  "unt.edu": {
+    "name": "University of North Texas"
+  },
+  "hsc.unt.edu": {
+    "name": "University of North Texas Health Science Center"
+  },
+  "unco.edu": {
+    "name": "University of Northern Colorado"
+  },
+  "uni.edu": {
+    "name": "University of Northern Iowa"
+  },
+  "unoh.edu": {
+    "name": "University of Northwestern Ohio"
+  },
+  "unwsp.edu": {
+    "name": "University of Northwestern–Saint Paul"
+  },
+  "nd.edu": {
+    "name": "University of Notre Dame"
+  },
+  "ou.edu": {
+    "name": "University of Oklahoma"
+  },
+  "ouhsc.edu": {
+    "name": "University of Oklahoma Health Sciences Center"
+  },
+  "ou.edutulsa/": {
+    "name": "University of Oklahoma–Tulsa"
+  },
+  "uoregon.edu": {
+    "name": "University of Oregon"
+  },
+  "ozarks.edu": {
+    "name": "University of the Ozarks"
+  },
+  "valdosta.edu": {
+    "name": "Valdosta State University"
+  },
+  "valenciacollege.edu": {
+    "name": "Valencia College"
+  },
+  "vcsu.edu": {
+    "name": "Valley City State University"
+  },
+  "vfcc.edu": {
+    "name": "Valley Forge Christian College"
+  },
+  "valpo.edu": {
+    "name": "Valparaiso University"
+  },
+  "vanderbilt.edu": {
+    "name": "Vanderbilt University"
+  },
+  "vandercook.edu": {
+    "name": "VanderCook College of Music"
+  },
+  "vanguard.edu": {
+    "name": "Vanguard University of Southern California"
+  },
+  "vassar.edu": {
+    "name": "Vassar College"
+  },
+  "vaughn.edu": {
+    "name": "Vaughn College of Aeronautics & Technology"
+  },
+  "vcfa.edu": {
+    "name": "Vermont College of Fine Arts"
+  },
+  "vermontlaw.edu": {
+    "name": "Vermont Law School"
+  },
+  "vtc.edu": {
+    "name": "Vermont Technical College"
+  },
+  "victory.edu": {
+    "name": "Victory University"
+  },
+  "villa.edu": {
+    "name": "Villa Maria College"
+  },
+  "villanova.edu": {
+    "name": "Villanova University"
+  },
+  "vinu.edu": {
+    "name": "Vincennes University"
+  },
+  "vcu.edu": {
+    "name": "Virginia Commonwealth University"
+  },
+  "vic.edu": {
+    "name": "Virginia Intermont College"
+  },
+  "vmi.edu": {
+    "name": "Virginia Military Institute"
+  },
+  "vt.edu": {
+    "name": "Virginia Polytechnic Institute & State University"
+  },
+  "vsu.edu": {
+    "name": "Virginia State University"
+  },
+  "vuu.edu": {
+    "name": "Virginia Union University"
+  },
+  "vwc.edu": {
+    "name": "Virginia Wesleyan College"
+  },
+  "viterbo.edu": {
+    "name": "Viterbo University"
+  },
+  "voorhees.edu": {
+    "name": "Voorhees College"
+  },
+  "wabash.edu": {
+    "name": "Wabash College"
+  },
+  "wadecollege.edu": {
+    "name": "Wade College"
+  },
+  "wagner.edu": {
+    "name": "Wagner College"
+  },
+  "wfu.edu": {
+    "name": "Wake Forest University"
+  },
+  "waldenu.edu": {
+    "name": "Walden University"
+  },
+  "wallawalla.edu": {
+    "name": "Walla Walla University"
+  },
+  "walshcollege.edu": {
+    "name": "Walsh College"
+  },
+  "walsh.edu": {
+    "name": "Walsh University"
+  },
+  "warnerpacific.edu": {
+    "name": "Warner Pacific College"
+  },
+  "warner.edu": {
+    "name": "Warner University"
+  },
+  "warren-wilson.edu": {
+    "name": "Warren Wilson College"
+  },
+  "wartburg.edu": {
+    "name": "Wartburg College"
+  },
+  "wartburgseminary.edu": {
+    "name": "Wartburg Theological Seminary"
+  },
+  "washburn.edu": {
+    "name": "Washburn University"
+  },
+  "washjeff.edu": {
+    "name": "Washington & Jefferson College"
+  },
+  "wlu.edu": {
+    "name": "Washington & Lee University"
+  },
+  "wau.edu": {
+    "name": "Washington Adventist University"
+  },
+  "bible.edu": {
+    "name": "Washington Bible College/Capital Bible Seminary"
+  },
+  "washcoll.edu": {
+    "name": "Washington College"
+  },
+  "wsu.edu": {
+    "name": "Washington State University"
+  },
+  "spokane.wsu.edu": {
+    "name": "Washington State University–Spokane"
+  },
+  "tricity.wsu.edu": {
+    "name": "Washington State University–Tri-Cities"
+  },
+  "vancouver.wsu.edu": {
+    "name": "Washington State University–Vancouver"
+  },
+  "wtu.edu": {
+    "name": "Washington Theological Union"
+  },
+  "wustl.edu": {
+    "name": "Washington University in Saint Louis"
+  },
+  "watkins.edu": {
+    "name": "Watkins College of Art, Design, & Film"
+  },
+  "wbu.edu": {
+    "name": "Wayland Baptist University"
+  },
+  "wsc.edu": {
+    "name": "Wayne State College"
+  },
+  "wayne.edu": {
+    "name": "Wayne State University"
+  },
+  "waynesburg.edu": {
+    "name": "Waynesburg University"
+  },
+  "webb-institute.edu": {
+    "name": "Webb Institute"
+  },
+  "webber.edu": {
+    "name": "Webber International University"
+  },
+  "weber.edu": {
+    "name": "Weber State University"
+  },
+  "webster.edu": {
+    "name": "Webster University"
+  },
+  "fwbbc.edu": {
+    "name": "Welch College"
+  },
+  "wellesley.edu": {
+    "name": "Wellesley College"
+  },
+  "wells.edu": {
+    "name": "Wells College"
+  },
+  "wit.edu": {
+    "name": "Wentworth Institute of Technology"
+  },
+  "wesley.edu": {
+    "name": "Wesley College"
+  },
+  "wesleyseminary.edu": {
+    "name": "Wesley Theological Seminary"
+  },
+  "wesleyancollege.edu": {
+    "name": "Wesleyan College"
+  },
+  "wesleyan.edu": {
+    "name": "Wesleyan University"
+  },
+  "wcupa.edu": {
+    "name": "West Chester University of Pennsylvania"
+  },
+  "westliberty.edu": {
+    "name": "West Liberty University"
+  },
+  "wtamu.edu": {
+    "name": "West Texas A&M University"
+  },
+  "wvstateu.edu": {
+    "name": "West Virginia State University"
+  },
+  "wvu.edu": {
+    "name": "West Virginia University"
+  },
+  "wvutech.edu": {
+    "name": "West Virginia University Institute of Technology"
+  },
+  "wvup.edu": {
+    "name": "West Virginia University at Parkersburg"
+  },
+  "wvwc.edu": {
+    "name": "West Virginia Wesleyan College"
+  },
+  "wcu.edu": {
+    "name": "Western Carolina University"
+  },
+  "wcsu.edu": {
+    "name": "Western Connecticut State University"
+  },
+  "wgu.edu": {
+    "name": "Western Governors University"
+  },
+  "indiana.wgu.edu": {
+    "name": "Western Governors University–Indiana"
+  },
+  "missouri.wgu.edu": {
+    "name": "Western Governors University–Missouri"
+  },
+  "tennessee.wgu.edu": {
+    "name": "Western Governors University–Tennessee"
+  },
+  "texas.wgu.edu": {
+    "name": "Western Governors University–Texas"
+  },
+  "washington.wgu.edu": {
+    "name": "Western Governors University–Washington"
+  },
+  "wiu.edu": {
+    "name": "Western Illinois University"
+  },
+  "west.edu": {
+    "name": "Western International University"
+  },
+  "wku.edu": {
+    "name": "Western Kentucky University"
+  },
+  "wmich.edu": {
+    "name": "Western Michigan University"
+  },
+  "wnc.edu": {
+    "name": "Western Nevada College"
+  },
+  "wne.edu": {
+    "name": "Western New England University"
+  },
+  "wnmu.edu": {
+    "name": "Western New Mexico University"
+  },
+  "wou.edu": {
+    "name": "Western Oregon University"
+  },
+  "westernseminary.edu": {
+    "name": "Western Seminary"
+  },
+  "western.edu": {
+    "name": "Western State Colorado University"
+  },
+  "wsulaw.edu": {
+    "name": "Western State University College of Law"
+  },
+  "westernu.edu": {
+    "name": "Western University of Health Sciences"
+  },
+  "wwu.edu": {
+    "name": "Western Washington University"
+  },
+  "wsc.ma.edu": {
+    "name": "Westfield State University"
+  },
+  "westminster.edu": {
+    "name": "Westminster College"
+  },
+  "westminster-mo.edu": {
+    "name": "Westminster College"
+  },
+  "westminstercollege.edu": {
+    "name": "Westminster College"
+  },
+  "wts.edu": {
+    "name": "Westminster Theological Seminary"
+  },
+  "wscal.edu": {
+    "name": "Westminster Seminary California"
+  },
+  "westmont.edu": {
+    "name": "Westmont College"
+  },
+  "wheaton.edu": {
+    "name": "Wheaton College"
+  },
+  "wheatoncollege.edu": {
+    "name": "Wheaton College"
+  },
+  "wju.edu": {
+    "name": "Wheeling Jesuit University"
+  },
+  "wheelock.edu": {
+    "name": "Wheelock College"
+  },
+  "whitman.edu": {
+    "name": "Whitman College"
+  },
+  "whittier.edu": {
+    "name": "Whittier College"
+  },
+  "whitworth.edu": {
+    "name": "Whitworth University"
+  },
+  "wichita.edu": {
+    "name": "Wichita State University"
+  },
+  "widener.edu": {
+    "name": "Widener University"
+  },
+  "wilberforce.edu": {
+    "name": "Wilberforce University"
+  },
+  "wileyc.edu": {
+    "name": "Wiley College"
+  },
+  "wilkes.edu": {
+    "name": "Wilkes University"
+  },
+  "willamette.edu": {
+    "name": "Willamette University"
+  },
+  "wmcarey.edu": {
+    "name": "William Carey University"
+  },
+  "jessup.edu": {
+    "name": "William Jessup University"
+  },
+  "jewell.edu": {
+    "name": "William Jewell College"
+  },
+  "wmpenn.edu": {
+    "name": "William Penn University"
+  },
+  "wpunj.edu": {
+    "name": "William Paterson University"
+  },
+  "williamwoods.edu": {
+    "name": "William Woods University"
+  },
+  "wbcoll.edu": {
+    "name": "Williams Baptist College"
+  },
+  "williams.edu": {
+    "name": "Williams College"
+  },
+  "wilmu.edu": {
+    "name": "Wilmington University"
+  },
+  "wilmington.edu": {
+    "name": "Wilmington College"
+  },
+  "wilson.edu": {
+    "name": "Wilson College"
+  },
+  "wingate.edu": {
+    "name": "Wingate University"
+  },
+  "winona.edu": {
+    "name": "Winona State University"
+  },
+  "wssu.edu": {
+    "name": "Winston-Salem State University"
+  },
+  "winthrop.edu": {
+    "name": "Winthrop University"
+  },
+  "wlc.edu": {
+    "name": "Wisconsin Lutheran College"
+  },
+  "wspp.edu": {
+    "name": "Wisconsin School of Professional Psychology"
+  },
+  "wittenberg.edu": {
+    "name": "Wittenberg University"
+  },
+  "wofford.edu": {
+    "name": "Wofford College"
+  },
+  "woninstitute.edu": {
+    "name": "Won Institute of Graduate Studies"
+  },
+  "woodbury.edu": {
+    "name": "Woodbury University"
+  },
+  "whoi.edu": {
+    "name": "Woods Hole Oceanographic Institution"
+  },
+  "wpi.edu": {
+    "name": "Worcester Polytechnic Institute"
+  },
+  "worcester.edu": {
+    "name": "Worcester State University"
+  },
+  "wi.edu": {
+    "name": "The Wright Institute"
+  },
+  "wright.edu": {
+    "name": "Wright State University"
+  }
+}
