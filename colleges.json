@@ -147,7 +147,8 @@
     "name": "American Public University"
   },
   "american.edu": {
-    "name": "American University"
+    "name": "American University",
+    "short_name": "American"
   },
   "aupr.edu": {
     "name": "American University of Puerto Rico"
@@ -348,7 +349,8 @@
     "name": "Daniel Webster College"
   },
   "dartmouth.edu": {
-    "name": "Dartmouth College"
+    "name": "Dartmouth College",
+    "short_name": "Dartmouth"
   },
   "davenport.edu": {
     "name": "Davenport University"
@@ -483,7 +485,8 @@
     "name": "Drury University"
   },
   "duke.edu": {
-    "name": "Duke University"
+    "name": "Duke University",
+    "short_name": "Duke"
   },
   "dunwoody.edu": {
     "name": "Dunwoody College of Technology"
@@ -621,7 +624,8 @@
     "name": "Emory & Henry College"
   },
   "emory.edu": {
-    "name": "Emory University"
+    "name": "Emory University",
+    "short_name": "Emory"
   },
   "endicott.edu": {
     "name": "Endicott College"
@@ -815,7 +819,7 @@
   "gannon.edu": {
     "name": "Gannon University"
   },
-  "gardner-webb.edu": {
+  "gardner-.edu": {
     "name": "Gardner-Webb University"
   },
   "garrett.edu": {
@@ -840,7 +844,8 @@
     "name": "Georgetown College"
   },
   "georgetown.edu": {
-    "name": "Georgetown University"
+    "name": "Georgetown University",
+    "short_name": "Georgetown"
   },
   "gcsu.edu": {
     "name": "Georgia College & State University"
@@ -849,7 +854,8 @@
     "name": "Georgia Gwinnett College"
   },
   "gatech.edu": {
-    "name": "Georgia Institute of Technology"
+    "name": "Georgia Institute of Technology",
+    "short_name": "Georgia Tech"
   },
   "gru.edu": {
     "name": "Georgia Regents University"
@@ -1041,7 +1047,8 @@
     "name": "Indiana University–Southeast"
   },
   "indiana.edu": {
-    "name": "Indiana University System"
+    "name": "Indiana University System",
+    "short_name": "Indiana"
   },
   "iupuc.edu": {
     "name": "Indiana University/Purdue University at Columbus"
@@ -1125,7 +1132,8 @@
     "name": "John Marshall Law School"
   },
   "jhu.edu": {
-    "name": "Johns Hopkins University"
+    "name": "Johns Hopkins University",
+    "short_name": "Johns Hopkins"
   },
   "johnsonu.edu": {
     "name": "Johnson University"
@@ -1245,7 +1253,8 @@
     "name": "Lees-McRae College"
   },
   "lehigh.edu": {
-    "name": "Lehigh University"
+    "name": "Lehigh University",
+    "short_name": "Lehigh"
   },
   "loc.edu": {
     "name": "LeMoyne-Owen College"
@@ -1539,7 +1548,8 @@
     "name": "New York Medical College"
   },
   "nyu.edu": {
-    "name": "New York University"
+    "name": "New York University",
+    "short_name": "NYU"
   },
   "newberry.edu": {
     "name": "Newberry College"
@@ -1605,7 +1615,8 @@
     "name": "Northeastern State University–Muskogee"
   },
   "northeastern.edu": {
-    "name": "Northeastern University"
+    "name": "Northeastern University",
+    "short_name": "Northeaster"
   },
   "nau.edu": {
     "name": "Northern Arizona University"
@@ -1662,7 +1673,8 @@
     "name": "Northwestern State University of Louisiana"
   },
   "northwestern.edu": {
-    "name": "Northwestern University"
+    "name": "Northwestern University",
+    "short_name": "Northwestern"
   },
   "northwood.edu": {
     "name": "Northwood University"
@@ -1761,7 +1773,8 @@
     "name": "Pennsylvania College of Technology"
   },
   "psu.edu": {
-    "name": "Pennsylvania State University"
+    "name": "Pennsylvania State University",
+    "short_name": "Penn State"
   },
   "abington.psu.edu": {
     "name": "Pennsylvania State University–Abington"
@@ -1926,7 +1939,8 @@
     "name": "Princeton Theological Seminary"
   },
   "princeton.edu": {
-    "name": "Princeton University"
+    "name": "Princeton University",
+    "short_name": "Princeton"
   },
   "principiacollege.edu": {
     "name": "Principia College"
@@ -2523,7 +2537,8 @@
     "name": "Springfield College"
   },
   "stanford.edu": {
-    "name": "Stanford University"
+    "name": "Stanford University",
+    "short_name": "Stanford"
   },
   "scf.edu": {
     "name": "State College of Florida, Manatee-Sarasota"
@@ -2670,13 +2685,15 @@
     "name": "Sweet Briar College"
   },
   "syracuse.edu": {
-    "name": "Syracuse University"
+    "name": "Syracuse University",
+    "short_name": "Syracuse"
   },
   "pacific.edu": {
     "name": "University of the Pacific"
   },
   "upenn.edu": {
-    "name": "University of Pennsylvania"
+    "name": "University of Pennsylvania",
+    "short_name": "UPenn"
   },
   "phoenix.edu": {
     "name": "University of Phoenix"
@@ -2745,13 +2762,15 @@
     "name": "University of Rhode Island"
   },
   "richmond.edu": {
-    "name": "University of Richmond"
+    "name": "University of Richmond",
+    "short_name": "Richmond"
   },
   "rio.edu": {
     "name": "University of Rio Grande"
   },
   "rochester.edu": {
-    "name": "University of Rochester"
+    "name": "University of Rochester",
+    "short_name": "Rochester"
   },
   "rockies.edu": {
     "name": "University of the Rockies"
@@ -2784,7 +2803,8 @@
     "name": "University of Sioux Falls"
   },
   "usc.edu": {
-    "name": "University of Southern California"
+    "name": "University of Southern California",
+    "short_name": "USC"
   },
   "usm.maine.edu": {
     "name": "University of Southern Maine"
@@ -2850,7 +2870,8 @@
     "name": "University of Texas–Arlington"
   },
   "utexas.edu": {
-    "name": "University of Texas–Austin"
+    "name": "University of Texas–Austin",
+    "short_name": "UT Austin"
   },
   "utb.edu": {
     "name": "University of Texas–Brownsville"
@@ -2925,7 +2946,8 @@
     "name": "University of the Virgin Islands"
   },
   "virginia.edu": {
-    "name": "University of Virginia"
+    "name": "University of Virginia",
+    "short_name": "UVA"
   },
   "wise.virginia.edu": {
     "name": "University of Virginia's College at Wise"
@@ -2964,7 +2986,8 @@
     "name": "University of Wisconsin–La Crosse"
   },
   "wisc.edu": {
-    "name": "University of Wisconsin–Madison"
+    "name": "University of Wisconsin–Madison",
+    "short_name": "Wisconsin"
   },
   "uwm.edu": {
     "name": "University of Wisconsin–Milwaukee"
@@ -3006,7 +3029,8 @@
     "name": "Xavier University of Louisiana"
   },
   "yale.edu": {
-    "name": "Yale University"
+    "name": "Yale University",
+    "short_name": "Yale"
   },
   "yu.edu": {
     "name": "Yeshiva University"
@@ -3024,7 +3048,8 @@
     "name": "Youngstown State University"
   },
   "babson.edu": {
-    "name": "Babson College"
+    "name": "Babson College",
+    "short_name": "Babson"
   },
   "bacone.edu": {
     "name": "Bacone College"
@@ -3258,7 +3283,8 @@
     "name": "Boston Graduate School of Psychoanalysis"
   },
   "bu.edu": {
-    "name": "Boston University"
+    "name": "Boston University",
+    "short_name": "BU"
   },
   "bowdoin.edu": {
     "name": "Bowdoin College"
@@ -3273,7 +3299,8 @@
     "name": "Bradley University"
   },
   "brandeis.edu": {
-    "name": "Brandeis University"
+    "name": "Brandeis University",
+    "short_name": "Brandeis"
   },
   "brandman.edu": {
     "name": "Brandman University"
@@ -3318,7 +3345,8 @@
     "name": "Broward College"
   },
   "brown.edu": {
-    "name": "Brown University"
+    "name": "Brown University",
+    "short_name": "Brown"
   },
   "bryan.edu": {
     "name": "Bryan College"
@@ -3492,7 +3520,8 @@
     "name": "Carlow University"
   },
   "cmu.edu": {
-    "name": "Carnegie Mellon University"
+    "name": "Carnegie Mellon University",
+    "short_name": "Carnegie Mellon"
   },
   "carroll.edu": {
     "name": "Carroll College"
@@ -3507,7 +3536,8 @@
     "name": "Carthage College"
   },
   "case.edu": {
-    "name": "Case Western Reserve University"
+    "name": "Case Western Reserve University",
+    "short_name": "Case Western"
   },
   "castleton.edu": {
     "name": "Castleton State College"
@@ -3909,7 +3939,8 @@
     "name": "Columbia Theological Seminary"
   },
   "columbia.edu": {
-    "name": "Columbia University"
+    "name": "Columbia University",
+    "short_name": "Columbia"
   },
   "ccad.edu": {
     "name": "Columbus College of Art & Design"
@@ -3990,7 +4021,8 @@
     "name": "Cornell College"
   },
   "cornell.edu": {
-    "name": "Cornell University"
+    "name": "Cornell University",
+    "short_name": "Cornell"
   },
   "cornerstone.edu": {
     "name": "Cornerstone University"
@@ -4083,7 +4115,8 @@
     "name": "Hartwick College"
   },
   "harvard.edu": {
-    "name": "Harvard University"
+    "name": "Harvard University",
+    "short_name": "Harvard"
   },
   "haskell.edu": {
     "name": "Haskell Indian Nations University"
@@ -4439,8 +4472,9 @@
   "mcphs.edu": {
     "name": "Massachusetts College of Pharmacy & Health Sciences"
   },
-  "web.mit.edu": {
-    "name": "Massachusetts Institute of Technology"
+  "mit.edu": {
+    "name": "Massachusetts Institute of Technology",
+    "short_name": "MIT"
   },
   "maritime.edu": {
     "name": "Massachusetts Maritime Academy"
@@ -5013,7 +5047,8 @@
     "name": "Rhode Island College"
   },
   "risd.edu": {
-    "name": "Rhode Island School of Design"
+    "name": "Rhode Island School of Design",
+    "short_name": "RISD"
   },
   "rhodes.edu": {
     "name": "Rhodes College"
@@ -5313,7 +5348,8 @@
     "name": "Truman State University"
   },
   "tufts.edu": {
-    "name": "Tufts University"
+    "name": "Tufts University",
+    "short_name": "Tufts"
   },
   "tulane.edu": {
     "name": "Tulane University"
@@ -5529,19 +5565,23 @@
     "name": "University of Bridgeport"
   },
   "berkeley.edu": {
-    "name": "University of California–Berkeley"
+    "name": "University of California–Berkeley",
+    "short_name": "Berkeley"
   },
   "ucdavis.edu": {
-    "name": "University of California–Davis"
+    "name": "University of California–Davis",
+    "short_name": "UCDavis"
   },
   "uchastings.edu": {
     "name": "University of California Hastings College of the Law"
   },
   "uci.edu": {
-    "name": "University of California–Irvine"
+    "name": "University of California–Irvine",
+    "short_name": "UCI"
   },
   "ucla.edu": {
-    "name": "University of California–Los Angeles"
+    "name": "University of California–Los Angeles",
+    "short_name": "UCLA"
   },
   "ucmerced.edu": {
     "name": "University of California–Merced"
@@ -5550,13 +5590,16 @@
     "name": "University of California–Riverside"
   },
   "ucsd.edu": {
-    "name": "University of California–San Diego"
+    "name": "University of California–San Diego",
+    "short_name": "UCSD"
   },
   "ucsf.edu": {
-    "name": "University of California–San Francisco"
+    "name": "University of California–San Francisco",
+    "short_name": "UCSF"
   },
   "ucsb.edu": {
-    "name": "University of California–Santa Barbara"
+    "name": "University of California–Santa Barbara",
+    "short_name": "UCSB"
   },
   "ucsc.edu": {
     "name": "University of California–Santa Cruz"
@@ -5580,10 +5623,12 @@
     "name": "University of Charleston"
   },
   "uchicago.edu": {
-    "name": "University of Chicago"
+    "name": "University of Chicago",
+    "short_name": "UChicago"
   },
   "uc.edu": {
-    "name": "University of Cincinnati"
+    "name": "University of Cincinnati",
+    "short_name": "Cincinnati"
   },
   "ucblueash.edu": {
     "name": "University of Cincinnati–Blue Ash"
@@ -5679,10 +5724,12 @@
     "name": "University of Illinois–Springfield"
   },
   "uillinois.edu": {
-    "name": "University of Illinois System"
+    "name": "University of Illinois System",
+    "short_name": "UIllinois"
   },
   "illinois.edu": {
-    "name": "University of Illinois–Urbana-Champaign"
+    "name": "University of Illinois–Urbana-Champaign",
+    "short_name": "UIUC"
   },
   "uindy.edu": {
     "name": "University of Indianapolis"
@@ -5745,7 +5792,8 @@
     "name": "University of Mary Washington"
   },
   "umaryland.edu": {
-    "name": "University of Maryland–Baltimore"
+    "name": "University of Maryland–Baltimore",
+    "short_name": "Maryland"
   },
   "umbc.edu": {
     "name": "University of Maryland–Baltimore County"
@@ -5787,7 +5835,8 @@
     "name": "University of Miami"
   },
   "umich.edu": {
-    "name": "University of Michigan"
+    "name": "University of Michigan",
+    "short_name": "Michigan"
   },
   "umd.umich.edu": {
     "name": "University of Michigan–Dearborn"
@@ -5814,7 +5863,8 @@
     "name": "University of Mississippi Medical Center"
   },
   "missouri.edu": {
-    "name": "University of Missouri"
+    "name": "University of Missouri",
+    "short_name": "Missouri (Mizzou)"
   },
   "umkc.edu": {
     "name": "University of Missouri–Kansas City"
@@ -5889,7 +5939,8 @@
     "name": "University of North Carolina–Asheville"
   },
   "unc.edu": {
-    "name": "University of North Carolina–Chapel Hill"
+    "name": "University of North Carolina–Chapel Hill",
+    "short_name": "UNC"
   },
   "uncc.edu": {
     "name": "University of North Carolina–Charlotte"
@@ -5964,7 +6015,8 @@
     "name": "Valparaiso University"
   },
   "vanderbilt.edu": {
-    "name": "Vanderbilt University"
+    "name": "Vanderbilt University",
+    "short_name": "Vanderbilt"
   },
   "vandercook.edu": {
     "name": "VanderCook College of Music"
@@ -6036,7 +6088,8 @@
     "name": "Wagner College"
   },
   "wfu.edu": {
-    "name": "Wake Forest University"
+    "name": "Wake Forest University",
+    "short_name": "Wake Forest"
   },
   "waldenu.edu": {
     "name": "Walden University"
@@ -6099,7 +6152,8 @@
     "name": "Washington Theological Union"
   },
   "wustl.edu": {
-    "name": "Washington University in Saint Louis"
+    "name": "Washington University in Saint Louis",
+    "short_name": "WashU"
   },
   "watkins.edu": {
     "name": "Watkins College of Art, Design, & Film"
@@ -6116,16 +6170,16 @@
   "waynesburg.edu": {
     "name": "Waynesburg University"
   },
-  "webb-institute.edu": {
+  "-institute.edu": {
     "name": "Webb Institute"
   },
-  "webber.edu": {
+  "er.edu": {
     "name": "Webber International University"
   },
-  "weber.edu": {
+  "r.edu": {
     "name": "Weber State University"
   },
-  "webster.edu": {
+  "ter.edu": {
     "name": "Webster University"
   },
   "fwbbc.edu": {
